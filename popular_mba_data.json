@@ -847,162 +847,6 @@
         },
         "questions": [
           {
-            "question_text": "Which is a better university to pursue B.Tech in CSE among LPU and Amity University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vishnu harry",
-                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
-                },
-                "answer_text": "If you're trying to decide between LPU and Amity University for a B.Tech in Computer Science Engineering (CSE) , both have their own strengths—but many students find LPU more aligned with industry trends and student experience in this field. LPU's CSE programme is often rated slightly higher by students for its industry-focused curriculum, practical projects, modern labs, and strong tech exposure , including collaborations like the Big Data and AI Analytics track with IBM that strengthen real-world skills and employability. Student reviews also reflect solid infrastructure and campus life alongside good placement prospects in tech",
-                "upvotes": 3,
-                "downvotes": 0,
-                "posted_time": "6 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which private colleges provide good placements for B.Tech in biotech other than LPU, VIT, Amity and Manipal?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
-                },
-                "answer_text": "LPU provides a strong industry-oriented 4-year B.Tech course in Biotechnology. Placement records touch 90% and above with average package offerings hovering around INR 5-7 LPA, even going up to INR 12 LPA at the maximum. The likes of Biocon, Wipro, and 3M recruit for profiles in research, quality analysis, and pharma. Prevalent in lab work and internships, LPU increases chances for recruitment for its students.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "18 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements for B.Tech at LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
-                },
-                "answer_text": "Yes, LPU B.Tech placements are really good. For the 2025 batch, the highest package went up to INR 2.5 Cr in Robotics & Automation; top 10% averaged INR 14.97 LPA in CSE. Over 7,400 offers were given by 2000+ recruiters including companies like Microsoft, Google, Cognizant, Amazon; 92%+ placement rate; average INR 7-10 LPA.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "18 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU good for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
-                },
-                "answer_text": "Indeed, LPU is a very good choice to pursue B.Tech CSE. It is placed 48 in NIRF Engineering 2025, provides an industry-linked curriculum, practical experiences in labs, and specializations like AI/ML/Cybersecurity among others. Placement opportunities are good too, with above 92% placement rate, average salary of INR 7.92 LPA, and the highest being INR 62.72 LPA by Google, Microsoft, Cognizant. Good infrastructure and global collaboration opportunities add to the employability of the students.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which one is better LPU or Manipal Institute of Technology for B.Tech?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "Both the above institutes are fine but I would like to capture your attention in engineering stream of LPU. My sister has completed her graduation in from here so she told me some of the points : An Engineering programme which seamlessly articulates the concepts from basic Science to technology with relevant practice through lab and projects pertaining for building the problem solving skills, keeping industry requirements in place. PO1 :Engineering knowledge : Apply the knowledge of mathematics, Science, engineering fundamentals, and an engineering specialisation to the solution of complex engineering problems. PO2 : Problem analysis :",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the Pondicherry University CUET UG cutoff for OBC?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Pondicherry University",
-                "tag_url": "https://www.shiksha.com/university/pondicherry-university-25028"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "The Pondicherry University CUET UG cutoff 2024 was released for all categories under the All India category for admission to various UG and PG level courses. The cutoff was released in the form of opening and closing scores. For the OBC AI quota, the last round cutoff range was between 3 and 257 , wherein the hardest and the easiest courses for enrolment were B.Sc. (Hons.) in Chemistry and BPA (Hons.) in Drama and Theatre Arts, respectively. Students can refer to the table below to know the first and last round cutoff scores for the OBC AI category. Course Name Round 1 Closing Ranks Last Round Closing Ranks Integrated B.A. + M.A. in Social and Economic Administration and Law 118 106 Bachelor of Business Administration (BBA) 104 87 B.A. (Hons.) in Economics 114 96 B.A. (Hons.) in English 164 152 B.A. (Hons.) in French (Translation & Interpretation) 86 31 B.A. (Hons.) in History 100 88 B.A. (Hons.) in Media and Communication 134 104 B.A. (Hons.) in Philosophy 3 96 B.A. (Hons.) in Political Science 110 104 B.A. (Hons.) in Sociology 96 82 B.Sc. (Hons.) in Applied Geology 213 145 B.Sc. (Hons.) in Chemistry 300 257 B.Sc. (Hons.) in Computer Science 216 184 B.Sc. (Hons.) in Computer Science at Karaikal Campus 147 90 B.Sc. (Hons.) in Life Sciences 182 170 B.Sc. (Hons.) in Mathematics 254 191 B.Sc. (Hons.) in Mathematics at Karaikal Campus 138 47 B.Sc. (Hons.) in Physics 307 254 B.Sc. (Hons.) in Statistics 206 147 B.Tech. in Computer Science and Engineering 172 164 B.Tech. in Electronics and Communication Engineering 279 228 B.Tech. in Energy Science and Technology 200 123 B.Tech. in Material Science and Technology 175 102 BPA (Hons.) in Drama and Theatre Arts 42 3 Integrated B.Tech. + MBA in Computer Science and Business System 80 64 B.A. (Hons.) in Professional English 164 129 Bachelor of Commerce (B.Com. Hons.) 146 136",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
             "question_text": "Which is good for B.Tech in CSE - Amity Noida or LPU?",
             "tags": [
               {
@@ -1018,13 +862,247 @@
             "answers": [
               {
                 "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "Yes, in fact, LPU is the best private university for B.Tech in computer science. Under the NIRF rankings of 2025, this place stands at number 48 for engineering, with placement at over 92 percent (average INR 7-10 LPA and a maximum of INR 62 LPA from Microsoft/Google) and offers AI/ML specializations and laboratories- all perfect for your interests.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is LPU good for pursuing B.Tech in ECE? What about the placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "Well, LPU is fairly good for B.Tech ECE. The 2025 NIRF ranks #50 on engineering, with an industry-oriented curriculum, VLSI/IoT labs, and tie-ups for placements: a rate of 91%, an average of INR 6.99 LPA, and the highest of INR 20-30 LPA for Capgemini, Bosch, and TCS. Quite solid for core/IT roles.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is it a good option to pursue B.Tech in aerospace engineering from LPU? Can you suggest some other better colleges?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shivanya Raheja",
+                  "profile_url": "https://www.shiksha.com/userprofile/78623072"
+                },
+                "answer_text": "Yes, pursuing B.Tech in Aerospace Engineering from LPU is a good option due to its industry-oriented curriculum, modern labs, hands-on projects, internships, and strong overall placement ecosystem. LPU gives practical exposure and flexibility to explore allied sectors too. Other reputed options exist, but LPU stands out among private universities for infrastructure, exposure, and career support.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "16 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fee for BTech at LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
                   "name": "Vridhi",
                   "profile_url": "https://www.shiksha.com/userprofile/77038745"
                 },
-                "answer_text": "Both Amity Noida and LPU Jalandhar are good private universities in India and doing well in the educator sector. I have done my M.Tech from LPU and had a great experience. My friends did B.Tech in CSE from LPU and got placed in reputed MNCs. I would like to mention a few points about the B.Tech in CSE at LPU with you: Highly qualified faculty. Several specializations in the CSE such as Cyber Security, AI, ML, Cloud Computing, Data Science, etc. Tie-ups with Industries: LPU has tie-ups with many reputed industries such as IBM, Intel, Xebia, Upgrade. Comptia, Transorg, Geeksforgeeks, etc. That help students to explore themselves more in t",
+                "answer_text": "LPU BTech is offered in full-time mode for the duration of 3 years to 4 years. The University is ranked 50 by NIRF 2024 under the Engineering category . LPU BTech fee structure includes tuition fees ranging from INR 6.8 Lakh to INR 16 Lakh . The total BTech course fees ranges from INR 10.1 Lacs to INR 20.4 Lakh, depending on the duration and level of course along with various components. A fee structure entails various components such as tuition fees, hostel fees and one-time payment which further totals to be the course fees.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "17 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fee for BTech (LE) course at LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vridhi",
+                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                },
+                "answer_text": "At Lovely Professional University (LPU) , the B.Tech (Lateral Entry – LE) course fee varies significantly depending on the specialisation and specific fee components. As per recent data, the total tuition fee for B.Tech (LE) generally ranges between ₹9.60 Lacs and ₹13.60 lakh for the full 3-year duration. This is calculated based on the semester-wise fee , which can differ by branch—for example, around ₹1.40 Lacs per semester for many streams, and up to around ₹1.70 Lacs per semester for specialisations like Robotics & Automation or ECE-IoT. For specific branches like Information Technology or Computer Science & Engineer",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "17 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Why choose BTech CSE in 2026 & how can I apply for AEEE Exam?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "B.Tech Computer Science and Engineering",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-computer-science-and-engineering-tdp-388687"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Hemang Choudhary",
+                  "profile_url": "https://www.shiksha.com/userprofile/100494898"
+                },
+                "answer_text": "BTech CSE is a good choice because technology is growing fast. There are many job opportunities, good salary packages, and career options in software, AI, data science, and cybersecurity. CSE is future-oriented and offers jobs in India and abroad. How to apply for AEEE exam? Visit the official Amrita University website Register with email ID and mobile number Fill the application form Upload photo and signature Pay the application fee Choose exam slot and download admit card Attend the exam Hope this helped you 🙂🙂.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "17 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How can I get admission in LPU to pursue B.Tech through lateral entry after completing Diploma?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, Taking admissions at LPU is a great choice. With LPU's fantastic B.Tech Lateral Entry program, graduates can go straight to the second year. You normally need to pass the LPUNEST entrance exam and have at least 60% of the possible points in your engineering Diploma in order to be admitted for the 2026 session. For more information kindly contact their concerned department. I hope this information helps.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Panel Credit 𝒍𝒐𝒂𝒏 app customer 𝒄𝒂𝒓𝒆 𝒉elpline Number √° 77396-75957™™₹₹₹ hgf",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Panel Credit 𝒍𝒐𝒂𝒏 app customer 𝒄𝒂𝒓𝒆 𝒉elpline Number √° 77396-75957™™₹₹₹ fgh",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I get job abroad if I done my B.Tech from UGC recognised university (LPU) but not AICTE approved.",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "Yes, you can get a job abroad after completing your B.Tech from a UGC-recognized university like Lovely Professional University (LPU), even if the programme is not specifically AICTE-approved. Many countries and international employers primarily look at whether your degree is from a recognised and accredited university rather than whether it has AICTE approval. LPU is a UGC-recognized university with programs designed to meet academic standards and industry requirements, which ensures that your degree is valid and acceptable for higher studies or employment internationally. What matters most abroad is the credibility of the university,",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 hours ago"
               }
             ]
           }
@@ -1067,7 +1145,7 @@
             ],
             "question_text": "Hi all, I want to discuss about the confusion created by private colleges regarding admissions.",
             "followers": 2,
-            "views": 498,
+            "views": 503,
             "author": {
               "name": "Mohit diwakar",
               "profile_url": "https://www.shiksha.com/userprofile/99303948"
@@ -1088,7 +1166,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 459,
+            "views": 460,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
