@@ -842,38 +842,168 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "485",
-          "Followers": "201259"
+          "Active Users": "480",
+          "Followers": "201260"
         },
         "questions": [
           {
-            "question_text": "Which is good for B.Tech in CSE - Amity Noida or LPU?",
+            "question_text": "Are there any tuition fee waivers or concessions in the IIT Kanpur BTech fee structure?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Amity University, Noida",
-                "tag_url": "https://www.shiksha.com/university/amity-university-noida-41334"
+                "tag_name": "IIT Kanpur - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "Yes, in fact, LPU is the best private university for B.Tech in computer science. Under the NIRF rankings of 2025, this place stands at number 48 for engineering, with placement at over 92 percent (average INR 7-10 LPA and a maximum of INR 62 LPA from Microsoft/Google) and offers AI/ML specializations and laboratories- all perfect for your interests.",
+                "answer_text": "IIT Kanpur BTech offers a 100% tuition fee waiver for SC/ST students. Students belonging to MEB and OEB categories may also receive partial or full tuition fee concessions based on annual family income as per institute rules and verification.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "41 mins ago"
               }
             ]
           },
           {
-            "question_text": "Is LPU good for pursuing B.Tech in ECE? What about the placements?",
+            "question_text": "Is JEE compulsory for B.Tech Computer Science Engineering course?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "JEE",
+                "tag_url": "https://www.shiksha.com/tags/jee-tdp-387257"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the typical salary package ranges for BTech placements at IIT Kanpur this year?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Kanpur - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "IIT Kanpur BTech students had record placements, with overall average packages around INR 26 LPA and the highest domestic/international offers was around INR 1.9 crore. This shows highly competitive compensation packages from top recruiters across industries.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility criteria for BTech at IIT Guwahati?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Guwahati - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tanu Rao",
+                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
+                },
+                "answer_text": "Indian Institute of Technology Guwahati offers BTech across several specialisations. The duration for BTech at IIT Guwahati is 4 years. The eligibility for BTech courses at IIT Guwahati is Class 12 a minimum aggregate ranging between 45-75% and a valid score in JEE Main or Assam CEE.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many students are placed during MJPRU BTech placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Mahatma Jyotiba Phule Rohilkhand University",
+                "tag_url": "https://www.shiksha.com/university/mahatma-jyotiba-phule-rohilkhand-university-bareilly-20593"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aayush Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587256"
+                },
+                "answer_text": "The number of students placed during MJPRU BTech placements is mentioned below: Particulars BTech Placement Statistics 2022 BTech Placement Statistics 2023 BTech Placement Statistics 2024 Number of Graduating Students 298 300 307 Students Placed 254 220 267 Students Selected for Higher Studies 15 37 31",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the median package recorded during MJPRU BTech placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Mahatma Jyotiba Phule Rohilkhand University",
+                "tag_url": "https://www.shiksha.com/university/mahatma-jyotiba-phule-rohilkhand-university-bareilly-20593"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Dhanya Arora",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
+                },
+                "answer_text": "The median package recorded during MJPRU BTech placements in the past three years is mentioned below: Particulars BTech Placement Statistics 2022 BTech Placement Statistics 2023 BTech Placement Statistics 2024 Median package INR 7.15 LPA INR 8.65 LPA INR 9.2 LPA",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are the placements of LPU for B.Tech CSE?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -888,39 +1018,39 @@
             "answers": [
               {
                 "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
                 },
-                "answer_text": "Well, LPU is fairly good for B.Tech ECE. The 2025 NIRF ranks #50 on engineering, with an industry-oriented curriculum, VLSI/IoT labs, and tie-ups for placements: a rate of 91%, an average of INR 6.99 LPA, and the highest of INR 20-30 LPA for Capgemini, Bosch, and TCS. Quite solid for core/IT roles.",
+                "answer_text": "The placements for B.Tech CSE at Lovely Professional University are generally strong and growing, especially if you take advantage of the training and preparation the university offers. In recent placement cycles, many CSE students received offers ranging from ₹10 LPA to upwards of ₹50 LPA from reputed companies in software, AI, cloud and more, with the top packages for CSE often hitting around ₹50 LPA + for standout performers, and the average for the top 10 % around ₹14–15 LPA , reflecting that hard work and skill development really pay off here. Recruiters like Microsoft, Amazon, Google and others have been known to visit,",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is it a good option to pursue B.Tech in aerospace engineering from LPU? Can you suggest some other better colleges?",
+            "question_text": "What is the selection criteria for BTech at MPSTME NMIMS, Shirpur?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "NMIMS, Shirpur",
+                "tag_url": "https://www.shiksha.com/college/nmims-shirpur-54647"
               }
             ],
-            "followers": 1,
+            "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shivanya Raheja",
-                  "profile_url": "https://www.shiksha.com/userprofile/78623072"
+                  "name": "heau mishr",
+                  "profile_url": "https://www.shiksha.com/userprofile/97122734"
                 },
-                "answer_text": "Yes, pursuing B.Tech in Aerospace Engineering from LPU is a good option due to its industry-oriented curriculum, modern labs, hands-on projects, internships, and strong overall placement ecosystem. LPU gives practical exposure and flexibility to explore allied sectors too. Other reputed options exist, but LPU stands out among private universities for infrastructure, exposure, and career support.",
+                "answer_text": "Selection for BTech admissions at MPSTME NMIMS, Shirpur is entrance based. The institute accepts JEE Main scores for the same. Ensure that the minimum eligibility is met before applying for admission to the same. The minimum eligibility for BTech at MPSTME, NMIMS is passing Class 12 with atleast 45% aggregate in PCM/ PCMB stream from a recognised education board.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "16 hours ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
@@ -940,169 +1070,13 @@
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "mukesh malvya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100780180"
                 },
-                "answer_text": "LPU BTech is offered in full-time mode for the duration of 3 years to 4 years. The University is ranked 50 by NIRF 2024 under the Engineering category . LPU BTech fee structure includes tuition fees ranging from INR 6.8 Lakh to INR 16 Lakh . The total BTech course fees ranges from INR 10.1 Lacs to INR 20.4 Lakh, depending on the duration and level of course along with various components. A fee structure entails various components such as tuition fees, hostel fees and one-time payment which further totals to be the course fees.",
+                "answer_text": "how to pay the fees",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "17 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the fee for BTech (LE) course at LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "At Lovely Professional University (LPU) , the B.Tech (Lateral Entry – LE) course fee varies significantly depending on the specialisation and specific fee components. As per recent data, the total tuition fee for B.Tech (LE) generally ranges between ₹9.60 Lacs and ₹13.60 lakh for the full 3-year duration. This is calculated based on the semester-wise fee , which can differ by branch—for example, around ₹1.40 Lacs per semester for many streams, and up to around ₹1.70 Lacs per semester for specialisations like Robotics & Automation or ECE-IoT. For specific branches like Information Technology or Computer Science & Engineer",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "17 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Why choose BTech CSE in 2026 & how can I apply for AEEE Exam?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Computer Science and Engineering",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-computer-science-and-engineering-tdp-388687"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Hemang Choudhary",
-                  "profile_url": "https://www.shiksha.com/userprofile/100494898"
-                },
-                "answer_text": "BTech CSE is a good choice because technology is growing fast. There are many job opportunities, good salary packages, and career options in software, AI, data science, and cybersecurity. CSE is future-oriented and offers jobs in India and abroad. How to apply for AEEE exam? Visit the official Amrita University website Register with email ID and mobile number Fill the application form Upload photo and signature Pay the application fee Choose exam slot and download admit card Attend the exam Hope this helped you 🙂🙂.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "17 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How can I get admission in LPU to pursue B.Tech through lateral entry after completing Diploma?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Aston Martin",
-                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
-                },
-                "answer_text": "Dear reader, Taking admissions at LPU is a great choice. With LPU's fantastic B.Tech Lateral Entry program, graduates can go straight to the second year. You normally need to pass the LPUNEST entrance exam and have at least 60% of the possible points in your engineering Diploma in order to be admitted for the 2026 session. For more information kindly contact their concerned department. I hope this information helps.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Panel Credit 𝒍𝒐𝒂𝒏 app customer 𝒄𝒂𝒓𝒆 𝒉elpline Number √° 77396-75957™™₹₹₹ hgf",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": null,
-                  "profile_url": null
-                },
-                "answer_text": null,
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Panel Credit 𝒍𝒐𝒂𝒏 app customer 𝒄𝒂𝒓𝒆 𝒉elpline Number √° 77396-75957™™₹₹₹ fgh",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": null,
-                  "profile_url": null
-                },
-                "answer_text": null,
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get job abroad if I done my B.Tech from UGC recognised university (LPU) but not AICTE approved.",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vaani",
-                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
-                },
-                "answer_text": "Yes, you can get a job abroad after completing your B.Tech from a UGC-recognized university like Lovely Professional University (LPU), even if the programme is not specifically AICTE-approved. Many countries and international employers primarily look at whether your degree is from a recognised and accredited university rather than whether it has AICTE approval. LPU is a UGC-recognized university with programs designed to meet academic standards and industry requirements, which ensures that your degree is valid and acceptable for higher studies or employment internationally. What matters most abroad is the credibility of the university,",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "20 hours ago"
+                "posted_time": "4 hours ago"
               }
             ]
           }
