@@ -842,20 +842,98 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "480",
-          "Followers": "201260"
+          "Active Users": "473",
+          "Followers": "201261"
         },
         "questions": [
           {
-            "question_text": "Are there any tuition fee waivers or concessions in the IIT Kanpur BTech fee structure?",
+            "question_text": "Why choose BTech CSE in 2026 & how can I apply for AEEE Exam?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "IIT Kanpur - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116"
+                "tag_name": "B.Tech Computer Science and Engineering",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-computer-science-and-engineering-tdp-388687"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "narendra prajapat",
+                  "profile_url": "https://www.shiksha.com/userprofile/100262034"
+                },
+                "answer_text": "because there are many job, good salary, and career options in software, AI, DS, ML, and cybersecurity",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "49 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better BITS vs Amrita vs VIT for BTech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "BITS Pilani - Birla Institute of Technology and Science",
+                "tag_url": "https://www.shiksha.com/university/bits-pilani-birla-institute-of-technology-and-science-467"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "narendra prajapat",
+                  "profile_url": "https://www.shiksha.com/userprofile/100262034"
+                },
+                "answer_text": "BITS is best for sure",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "50 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many offers were made to BTech students during the recent NIT Jalandhar placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Jalandhar: Placements, Admission 2024, Cut off, Courses, Fees, Ranking",
+                "tag_url": "https://www.shiksha.com/college/national-institute-of-technology-jalandhar-24247"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shoaib Mehdi",
+                  "profile_url": "https://www.shiksha.com/userprofile/39519231"
+                },
+                "answer_text": "The participating recruiters presented 129 job offers to the BTech students during NIT Jalandhar placements 2025. A total 862 BTech students of the batch 2025 were eligible for the placements, of which 792 student secured job offers. In total,  1003 job offers were provided to the BTech graduates.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "50 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are there any one-time charges in University College of Engineering Osmania University BTech fees?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "University College of Engineering, Osmania University",
+                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
               }
             ],
             "followers": 0,
@@ -865,33 +943,7 @@
                   "name": "Jaya Sharma",
                   "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "IIT Kanpur BTech offers a 100% tuition fee waiver for SC/ST students. Students belonging to MEB and OEB categories may also receive partial or full tuition fee concessions based on annual family income as per institute rules and verification.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "41 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is JEE compulsory for B.Tech Computer Science Engineering course?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "JEE",
-                "tag_url": "https://www.shiksha.com/tags/jee-tdp-387257"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": null,
-                  "profile_url": null
-                },
-                "answer_text": null,
+                "answer_text": "In addition to tuition, University College of Engineering Osmania University BTech students pay a one-time special fee. This is approximately INR 9,770. It is applicable to all B.E./BTech students.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "an hour ago"
@@ -899,15 +951,15 @@
             ]
           },
           {
-            "question_text": "What are the typical salary package ranges for BTech placements at IIT Kanpur this year?",
+            "question_text": "Is the University College of Engineering Osmania University BTech fee the same for specialised branches?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "IIT Kanpur - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116"
+                "tag_name": "University College of Engineering, Osmania University",
+                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
               }
             ],
             "followers": 0,
@@ -917,7 +969,7 @@
                   "name": "Jaya Sharma",
                   "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "IIT Kanpur BTech students had record placements, with overall average packages around INR 26 LPA and the highest domestic/international offers was around INR 1.9 crore. This shows highly competitive compensation packages from top recruiters across industries.",
+                "answer_text": "University College of Engineering Osmania University BTech fees are higher for some specialised branches. AI & ML has tuition around INR 1.20 Lacs per year. Mining Engineering is approximately INR 1.0 Lacs per year.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "an hour ago"
@@ -925,7 +977,59 @@
             ]
           },
           {
-            "question_text": "What is the eligibility criteria for BTech at IIT Guwahati?",
+            "question_text": "What is the University College of Engineering Osmania University BTech fee for core branches?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "University College of Engineering, Osmania University",
+                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "The University College of Engineering Osmania University BTech fee is around INR 50,000 per year for most core branches. This includes streams like Civil, Mechanical, EEE, ECE, and CSE. Fees are affordable compared to many institutions.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which are the top BTech colleges in Bihar that offer direct admission?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Hi, Top BTech colleges in Bihar like IIT Patna, NIT Patna, IIIT Bhagalpur, MIT Muzaffarpur, and Gaya College of Engineering, primarily use JEE Main or BCECE entrance exam scores, but some private colleges like Amity University Patna and government colleges offer direct admission without any entrance exam. Listed below are the top colleges - Top Colleges Tuition Fee Amity University, Patna INR 7.6 lakh Maulana Azad College of Engineering and Technology INR 2.8 lakh Dr. C.V. Raman University, Bihar INR 3 lakh Netaji Subhas Institute of Technology INR 5.13 lakh Source: Official site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the BTech placement percentge recorded during IIT Guwahati placements?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -940,114 +1044,10 @@
             "answers": [
               {
                 "author": {
-                  "name": "Tanu Rao",
-                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
+                  "name": "Nishtha Arora",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587558"
                 },
-                "answer_text": "Indian Institute of Technology Guwahati offers BTech across several specialisations. The duration for BTech at IIT Guwahati is 4 years. The eligibility for BTech courses at IIT Guwahati is Class 12 a minimum aggregate ranging between 45-75% and a valid score in JEE Main or Assam CEE.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How many students are placed during MJPRU BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Mahatma Jyotiba Phule Rohilkhand University",
-                "tag_url": "https://www.shiksha.com/university/mahatma-jyotiba-phule-rohilkhand-university-bareilly-20593"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Aayush Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587256"
-                },
-                "answer_text": "The number of students placed during MJPRU BTech placements is mentioned below: Particulars BTech Placement Statistics 2022 BTech Placement Statistics 2023 BTech Placement Statistics 2024 Number of Graduating Students 298 300 307 Students Placed 254 220 267 Students Selected for Higher Studies 15 37 31",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the median package recorded during MJPRU BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Mahatma Jyotiba Phule Rohilkhand University",
-                "tag_url": "https://www.shiksha.com/university/mahatma-jyotiba-phule-rohilkhand-university-bareilly-20593"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Dhanya Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
-                },
-                "answer_text": "The median package recorded during MJPRU BTech placements in the past three years is mentioned below: Particulars BTech Placement Statistics 2022 BTech Placement Statistics 2023 BTech Placement Statistics 2024 Median package INR 7.15 LPA INR 8.65 LPA INR 9.2 LPA",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements of LPU for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vishnu harry",
-                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
-                },
-                "answer_text": "The placements for B.Tech CSE at Lovely Professional University are generally strong and growing, especially if you take advantage of the training and preparation the university offers. In recent placement cycles, many CSE students received offers ranging from ₹10 LPA to upwards of ₹50 LPA from reputed companies in software, AI, cloud and more, with the top packages for CSE often hitting around ₹50 LPA + for standout performers, and the average for the top 10 % around ₹14–15 LPA , reflecting that hard work and skill development really pay off here. Recruiters like Microsoft, Amazon, Google and others have been known to visit,",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the selection criteria for BTech at MPSTME NMIMS, Shirpur?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NMIMS, Shirpur",
-                "tag_url": "https://www.shiksha.com/college/nmims-shirpur-54647"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "heau mishr",
-                  "profile_url": "https://www.shiksha.com/userprofile/97122734"
-                },
-                "answer_text": "Selection for BTech admissions at MPSTME NMIMS, Shirpur is entrance based. The institute accepts JEE Main scores for the same. Ensure that the minimum eligibility is met before applying for admission to the same. The minimum eligibility for BTech at MPSTME, NMIMS is passing Class 12 with atleast 45% aggregate in PCM/ PCMB stream from a recognised education board.",
+                "answer_text": "842 students registered, and 637 students were placed during IIT Guwahati BTech placements 2025. BTech placement rate recorded in 2025 was 75.65%.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
@@ -1055,25 +1055,51 @@
             ]
           },
           {
-            "question_text": "What is the fee for BTech at LPU?",
+            "question_text": "What is the eligibility criteria for BTech at NIT Calicut?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "NIT Calicut - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-calicut-national-institute-of-technology-4288"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "mukesh malvya",
-                  "profile_url": "https://www.shiksha.com/userprofile/100780180"
+                  "name": "Tanu Rao",
+                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
                 },
-                "answer_text": "how to pay the fees",
+                "answer_text": "National Institute of Technology Calicut offers BTech across several specialisations. The duration for BTech at NIT Calicut is 4 years. The eligibility for BTech courses at NIT Calicut is Class 12 with at least 75% and a valid score in JEE Main or DASA UG.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the average fees of BTech in Odisha?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "B.Tech Fees",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "BTech fees in Odisha vary from college to college, from around INR < 1 Lacs to more than INR 15 Lakhs for top government institutes like NIT Rourkela and IIIT Bhubaneswar, while private colleges can range from a few lakhs. Listed below are the colleges with tuition fees - Top BTech Colleges Tuition Fee Seat Intake SOA University BTech Course INR 5.1 Lacs – INR 12.2 lakh 1,980 KIIT BTech Course INR 17.6 lakh 1,740 C. V. Raman Global University BTech Course INR 3.9 Lacs – INR 12 lakh 1,260 NIT Rourkela Admission INR 5 Lacs – INR 6.25 lakh 948 IIT Bhubaneswar Admission INR 8 Lacs – INR 10 lakh 619 Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "4 hours ago"
