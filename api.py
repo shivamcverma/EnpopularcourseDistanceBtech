@@ -46,7 +46,7 @@ def root():
 
 
 # 🔹 Full data
-@app.get("/Distance_btech_popular_course_BE_Btech")
+@app.get("/Distance_btech_popular_course")
 def get_all_data():
     return {
         "data": load_data()
