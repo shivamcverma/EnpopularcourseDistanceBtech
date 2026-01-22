@@ -766,12 +766,90 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "471",
+          "Active Users": "464",
           "Followers": "201262"
         },
         "questions": [
           {
-            "question_text": "Which university is better among LPU and MBM?",
+            "question_text": "What is the eligibility criteria for BTech at IIIT Kottayam?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Kottayam",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tanu Rao",
+                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
+                },
+                "answer_text": "Indian Institute of Information Technology Kottayam offers BTech across several specialisations. The duration for BTech at IIIT Kottayam is 2 years. The eligibility for BTech courses at IIIT Kottayam is Class 12 with at least 75% and a valid score in JEE Main or DASA UG.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the course fees for BTech and M.Tech at IIIT Sri City?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Sri City - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-sri-city-indian-institute-of-information-technology-chittoor-39366"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
+                },
+                "answer_text": "The course fees for the BTech and M.Tech programmes at Institute of Information Technology Sri City consists largely of tuition fees being: Around INR 1.65 Lakhs per semester for the 4-year BTech programme. While the M.Tech tuition fees are around INR 1.25 Lakhs per semester for the 2-year programme. Students may also have other extra charges such as examination fees, security deposit, etc.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is it a good choice to pursue Diploma and B.Tech in mechanical engineering from LPU? Does LPU provide 100 percent placement?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
+                },
+                "answer_text": "Totally! If you're thinking whether doing a Diploma and then a B.Tech in Mechanical Engineering from LPU is a smart move, the simple human truth is this it can be a very good choice because the Diploma gives you an early practical base and the B.Tech builds it into a strong engineering career. Doing both at LPU helps you stay in the same environment, get familiar with labs, mentors and industry connections early on. LPU focuses on skill development, workshops, and exposure that make learning smoother and more job-oriented. About placement, while LPU works hard on industry tie-ups and training support to get students in front of re",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I know does a B.Tech in CSE with specialization in machine learning at Lovely Professional University also include the teaching of AI?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -786,65 +864,13 @@
             "answers": [
               {
                 "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
                 },
-                "answer_text": "hi, Lovely Professional University (LPU) is considered better because of its large, well-planned campus, modern infrastructure, and wide range of academic programs. It offers industry-oriented curricula with practical exposure, live projects, and certifications in collaboration with companies like Google, IBM, and Microsoft. LPU provides strong learning resources, experienced faculty, and advanced laboratories. Students benefit from diverse peer interaction, international exposure, and active clubs and societies. While placements depend on individual effort, the university offers ample opportunities, skill-development platforms, and car",
+                "answer_text": "At Lovely Professional University (LPU), the B.Tech in Computer Science Engineering (CSE) with specialisation in Machine Learning is designed to provide students with a strong foundation in both theoretical and practical aspects of computing and intelligent systems. While the primary focus of the specialisation is on machine learning, the curriculum is structured to include essential concepts of Artificial Intelligence (AI) as well. Machine learning is a key subset of AI, and understanding AI fundamentals is crucial for effectively applying machine learning techniques in real-world scenarios. The programme covers core computer Sci",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is better for B.Tech- LPU or MSRIT?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "hi, B.Tech at Lovely Professional University (LPU) offers a wide range of engineering branches including CSE, Mechanical, Civil, Electrical, Electronics, Automobile, and emerging technologies. The university follows an industry-oriented curriculum with practical learning, modern laboratories, and strong infrastructure. LPU has collaborations with companies like IBM, Google, and Microsoft for certifications and skill-based training. Placements are average overall, but students who actively work on skills, internships, and projects can secure good opportunities. With a diverse campus, global exposure programs, and multiple clubs, LPU sui",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements of B.Tech in automobile engineering in LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 3,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "hi, Placements for B.Tech in Automobile Engineering at LPU are moderate and improving . Core automotive companies like Bosch, Ashok Leyland, Tata Motors, Hyundai, Mahindra and others visit for recruitment, giving students exposure to design, production, testing and quality roles. The average package for automobile graduates is generally modest (often around ₹3–₹8 LPA), with the the highest offers occasionally going higher (reports vary up to ₹20–₹31 LPA for standout students). Many students also get internships, and the dedicated placement cell supports resume building and interview prep. Success depends on individual skills",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 mins ago"
+                "posted_time": "8 hours ago"
               }
             ]
           },
@@ -864,169 +890,65 @@
             "answers": [
               {
                 "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                  "name": "shikha verma",
+                  "profile_url": "https://www.shiksha.com/userprofile/47283769"
                 },
-                "answer_text": "B.Tech in Computer Science and Engineering (CSE) at Lovely Professional University (LPU) focuses on industry-oriented learning with specializations in AI, Machine Learning, Data Science, Cybersecurity, and Cloud Computing. The program offers modern labs, strong infrastructure, and collaborations with companies like Google, IBM, and Microsoft for certifications. Placements are average overall, but skilled and consistent students can secure good packages through internships and projects. LPU provides ample opportunities through hackathons, coding clubs, live projects, and global exposure programs, making it suitable for students who are",
+                "answer_text": "LPU is a single campus private university in India located in Jalandhar, Punjab with 30K+ students all across the world and with 4000 experienced faculty members and staff members with more than 200 programmes. Even the placement opportunities in LPU are much better than other private universities as it is ranked the 5th amongst the other universities for its placement records. LPU has a beautiful campus with a great infrastructure with all the facilities within the campus itself. LPU has earned many affiliations, recognitions and accreditation and still working for more.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 mins ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is it necessary to appear for LPUNEST in order to take admission in LPU for B.Tech?",
+            "question_text": "How to get admission for B.Tech UG for Computer Science?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "Science Computer",
+                "tag_url": "https://www.shiksha.com/tags/science-computer-tdp-1676589"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                  "name": "K Ranganath Bharadwaj",
+                  "profile_url": "https://www.shiksha.com/userprofile/100289488"
                 },
-                "answer_text": "Yes, appearing for LPUNEST is generally necessary to take admission in B.Tech programs at Lovely Professional University (LPU). LPUNEST acts as both an entrance test and a scholarship test, and admission is usually offered based on LPUNEST performance. However, LPU also accepts national-level entrance exam scores such as JEE Main for admission and scholarship benefits. In some cases, direct admission may be available based on Class 12 marks, but LPUNEST is still recommended to secure better scholarship opportunities and preferred branches. Therefore, appearing for LPUNEST is the safest and most beneficial option for B.Tech aspirants.",
+                "answer_text": "Based on your JEE MAINS or any Engineering Admission Test apply to appropriate colleges.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "16 mins ago"
+                "posted_time": "17 hours ago"
               }
             ]
           },
           {
-            "question_text": "How are the BTech placements at Jain Deemed to be University Faculty of Engineering and Technology?",
+            "question_text": "Can you tell me, from which university is your college affiliated for B.Tech CSE.",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+                "tag_name": "University College",
+                "tag_url": "https://www.shiksha.com/tags/university-college-tdp-2456811"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shoaib Mehdi",
-                  "profile_url": "https://www.shiksha.com/userprofile/39519231"
+                  "name": "K Ranganath Bharadwaj",
+                  "profile_url": "https://www.shiksha.com/userprofile/100289488"
                 },
-                "answer_text": "Faculty of Engineering and Technology Jain University has released the overall placement details for the batch 2025.  More than 3,000 companies visited the institute campus and presented over 2,500 job offers to the students. The highest and average package offered was INR 81.25 LPA and INR 8 LPA.",
+                "answer_text": "Vasavi College of Engineering from Hyderabad is affiliated to Osmania University.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "25 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which BTech college is better, Lucknow University or AKTU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "AKTU - Dr. A.P.J. Abdul Kalam Technical University (UPTU)",
-                "tag_url": "https://www.shiksha.com/university/aktu-dr-a-p-j-abdul-kalam-technical-university-uptu-lucknow-57835"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Hi, AKTU (Dr. A.P.J. Abdul Kalam Technical University) is generally considered better for BTech degree because it's a dedicated technical university with numerous affiliated engineering colleges, offering many specialisations and industry focus than Lucknow University, which is a broader university with a newer BTech program, though LU's placements are improving. Source: External site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "27 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the lowest BTech fees in Lucknow?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Fees",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Shri Ramswaroop Memorial University and Goel Group of Institutions have the lowest tuition fees of less than INR 1 Lacs - Low-cost BTech Colleges Total Tuition Fee Shri Ramswaroop Memorial University Fees INR 47,500 Goel Group of Institutions Fees INR 75,890 Source: official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "29 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which are the top 5 private engineering colleges in Lucknow?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Private BTech colleges are expensive than government colleges with admission primarily be based on JEE Main and CUET. The top 5 private Engineerng colleges in Lucknow with their tuition fees and ther seat intake are mentioned below - College Name Total Tuition Fee BTech Seat Intake Integral University BTech Course INR 2.55 Lacs - INR 14.4 lakh - SR University, Lucknow BTech Course INR 8.32 Lacs - INR 15.44 lakh - Babu Banarasi Das University BTech Course INR 3.6 Lacs - INR 6.82 lakh 360 Lucknow Institute of Technology BTech Course INR 1.78 Lacs - INR 2.45 lakh 300 SR Group of Institutions BTech Course INR 1.95 Lacs - INR 4.42 lakh 810 Source: Official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "31 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the minimum eligibility for BTech at ICFAI University, Himachal Pradesh?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "ICFAI UNIVERSITY",
-                "tag_url": "https://www.shiksha.com/tags/icfai-university-tdp-191932"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "heau mishr",
-                  "profile_url": "https://www.shiksha.com/userprofile/97122734"
-                },
-                "answer_text": "The minimum eligibility for BTech at ICFAI University, Himachal Pradesh is passing Class 12 (or an equivalent Examination) with 50% aggregate marks with Mathematics, Physics, Chemistry and English as compulsory subjects. The selection criteria is entrance based for the same.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "17 hours ago"
               }
             ]
           }
