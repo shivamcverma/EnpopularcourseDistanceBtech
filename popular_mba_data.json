@@ -766,10 +766,114 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "449",
+          "Active Users": "441",
           "Followers": "201263"
         },
         "questions": [
+          {
+            "question_text": "Best private college in low fees",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "IMRAN",
+                  "profile_url": "https://www.shiksha.com/userprofile/100763164"
+                },
+                "answer_text": "Mohamed Sathak Engineering college, kilakkarai, Ramanathapuram.",
+                "upvotes": 1,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is it a good option to pursue B.Tech in aerospace engineering from LPU? Can you suggest some other better colleges?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "Yes — pursuing a B.Tech in Aerospace Engineering from LPU can be a decent option if you value good campus infrastructure, supportive faculty, and hands-on exposure , but it isn't among India's top aerospace schools. LPU is ranked moderately among engineering colleges offering this course, often placed below the highest-ranked institutions in metrics like core faculty research and placement networks.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is it a good choice to pursue Diploma and B.Tech in mechanical engineering from LPU? Does LPU provide 100 percent placement?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "The Diploma and B.Tech in Mechanical Engineering programme at LPU provides excellent practical training for design, manufacturing, and automation work through its industry-connected curriculum and advanced laboratory facilities, which operate at NIRF-Engineering rank 50. The B.Tech lateral entry programme from Diploma requires students to achieve 60% or higher marks for eligibility. LPU achieves high placement rates between 78% and 85% for Mechanical students who have particular skills and CGPA scores above 6 and no active backlogs. The university does not provide 100% employment guarantees.",
+                "upvotes": 1,
+                "downvotes": 0,
+                "posted_time": "12 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one is better LPU or Manipal Institute of Technology for B.Tech?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "Lovely Professional University (LPU) stands as one of India's the largest private universities which established its campus in 2005 on a 600-acre site that features contemporary educational facilities including advanced laboratories and library resources and athletic training areas. The university which holds NAAC A+ accreditation with a CGPA of 3.68 offers 150+ programs in engineering and management and law and design and other fields while emphasizing practical learning and innovation and global exposure and strong placement outcomes which feature salaries reaching INR 2.5 Cr for B.Tech graduates. The university which holds NAAC A+ a",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "12 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "Which is better for B.Tech- LPU or MSRIT?",
             "tags": [
@@ -792,7 +896,7 @@
                 "answer_text": "MSRIT is an old, well-respected engineering college and it's located in Bangalore, which is a big advantage for internships, tech exposure, and jobs. The teaching quality and peer group are usually stronger, and the fees are more reasonable for what you get. LPU is a huge university with a very good campus life and lots of activities. Placements are okay, but because the student intake is very large, competition is high and outcomes can vary a lot from student to student.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -818,7 +922,7 @@
                 "answer_text": "GIBS placements stand out mainly because the college genuinely puts effort into getting students job-ready. They don't just wait for companies to come; they train students with mock interviews, skill sessions, internships, and constant guidance, so people feel more confident during placements. Another big plus is the variety of companies. Students aren't limited to just one field there are opportunities in marketing, finance, HR, IT, banking, and even startups. That gives everyone a fair chance to find a role that suits them. The salary packages are also decent for a PGDM college in Bangalore not unrealistic promises, but solid offers th",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -844,7 +948,7 @@
                 "answer_text": "Yes — LPU is a good option for B.Tech in ECE (Electronics & Communication Engineering), especially if you are realistic about outcomes and plan to work hard. Here's a clear look: 📌 Strong Placement Highlights: LPU has produced very high packages for ECE students , including a ₹2.5 crore domestic offer in robotics and ₹1.03 crore for another student in recent years — showing top performers can excel .  Some students have also secured packages nearly ₹19.5–₹62 LPA at good companies. 📈 Average & Typical Outcomes: For most ECE graduates, the average packages are generally in the ₹5–10 LPA range ,",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "8 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -870,163 +974,7 @@
                 "answer_text": "Yes — besides LPU, VIT, Amity, and Manipal , there are several private colleges in India that offer B.Tech Biotechnology and have relatively good placement prospects , though biotech placements overall tend to be more modest than core CS/IT . Some worth considering include SRM Institute of Science and Technology (Chennai) , which is known for biotech labs, industry tie-ups, internship opportunities, and decent recruiter interest; Shoolini University (Himachal Pradesh) which has strong industry collaborations and reports very high placement rates in biotech-related programs; ICFAI School of Life Sciences and Chaitanya Bharathi Institute o",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU good for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "Yes — LPU (Lovely Professional University) can be a good choice for B.Tech in Computer Science & Engineering (CSE) , but with some important realities to understand. LPU is one of the larger private universities in India with a very big campus , modern infrastructure, lots of labs, and a broad placement network where 1,500+ recruiters visit for engineering placements, and companies like Amazon, Microsoft, Infosys, Capgemini and many others hire CSE students . The highest packages recently in CSE placements have gone up to around ₹64 LPA , and top students in the top 10 % have average packages near ₹14–15 LPA , while overall placemen",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is it a good choice to pursue Diploma and B.Tech in mechanical engineering from LPU? Does LPU provide 100 percent placement?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "Pursuing a Diploma followed by a B.Tech in Mechanical Engineering from LPU can be a reasonable choice if your goal is to get industry exposure, practical training, and decent job opportunities, but it's important to have realistic expectations. LPU has a large placement ecosystem with over 2,200+ recruiters and thousands of offers made each season , and some students have secured very high packages (even in engineering streams) including international offers and packages reaching into crores, especially in top branches like CSE or EEE.  However, this does not translate into a guaranteed “100 % placement” for every student",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get job abroad if I done my B.Tech from UGC recognised university (LPU) but not AICTE approved.",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "I would like to capture your attention in engineering stream of LPU. My sister has completed her graduation from here so she told me some of the points : An Engineering programme which seamlessly articulates the concepts from basic Science to technology with relevant practice through lab and projects pertaining for building the problem solving skills, keeping industry requirements in place. PO1 :Engineering knowledge : Apply the knowledge of mathematics, Science, engineering fundamentals, and an engineering specialisation to the solution of complex engineering problems. PO2 : Problem analysis : Identify, formulate, research literature,",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "I have a score of 67% over all but 54% in mathematics. Can I get admission for a B.Tech in LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "For admission in Engineering programme, a candidate should have pass with 60% aggregate marks in 10+2 with Physics Mathematics and English or equivalent, subject to qualifying LPU NEST. For a candidate, who has not studied English as a subject, the condition of English may be waived off provided the candidate in his qualifying exam has studied in English medium. Or else if the candidate is interested in computer Science programme I will suggest to opt for B.Sc. Computer Science programme- pass with 50% aggregate in 10+2 (with English or equivalent. To avail scholarship then he /she can apply for LPU NEST exam for B.Sc. Computer Science",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is better among LPU, Chandigarh University and Chitkara University for B.Tech in CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "LPU University is an outstanding choice for pursuing a B.Tech in Computer Science and Engineering because it offers a balanced mix of quality academics, practical learning, and career support that helps students excel in the tech industry. Lovely Professional University's CSE programme covers essential core subjects as well as modern and high-demand technologies like artificial intelligence, machine learning, data science, cloud computing, and cybersecurity. This ensures that students not only build a strong theoretical foundation but also gain hands-on skills that are highly valued by employers. At LPU, learning extends beyond th",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is better for B.Tech computer Science Chitkara University or Chandigarh University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Chitkara University, Chandigarh",
-                "tag_url": "https://www.shiksha.com/university/chitkara-university-chandigarh-25096"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "From an LPU student's point of view , Chandigarh University is generally considered better than Chitkara University for B.Tech CSE because CU has a larger campus, stronger brand visibility, more aggressive placement drives, and a higher number of recruiters visiting every year, which increases opportunities (though averages are often inflated and depend heavily on student skills). Chitkara University, on the other hand, is more disciplined academically, has comparatively stricter rules, decent faculty, and respectable placements, but fewer mass recruiters and slightly less exposure than CU. In short, CU is better for exposure, networkin",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           }
