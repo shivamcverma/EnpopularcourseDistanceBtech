@@ -766,10 +766,114 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "441",
+          "Active Users": "435",
           "Followers": "201263"
         },
         "questions": [
+          {
+            "question_text": "Which private colleges provide good placements for B.Tech in biotech other than LPU, VIT, Amity and Manipal?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "B.Tech Biotechnology at Lovely Professional University (LPU) combines engineering fundamentals with biological sciences like genetics, microbiology, bioprocess engineering, and bioinformatics . The programme offers well-equipped labs, research exposure, internships, and industry-oriented projects in pharma, healthcare, agriculture, and research sectors. LPU encourages certifications, workshops, and higher-study preparation (GATE, MSc, MBA). Placements are moderate , as core biotech roles often prefer higher qualifications, but students do get opportunities in pharma companies, labs, quality control, and R&D support roles . Overall, it's a",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is LPU a good university to do B.Tech in ECE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "Yes — B.Tech in Electronics & Communication Engineering (ECE) at Lovely Professional University (LPU) can be a good choice if you're committed and make the most of opportunities. LPU offers modern labs, industry-aligned projects, internships, and practical learning that prepare students for electronics, communication, IoT and related tech roles. Recruiters visit the campus, and ECE students have received strong offers — including record packages like ₹2.5 crore for top performers and many average offers in respectable ranges — though this varies by skill and effort. However, placements and outcomes depend heavily on your perform",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I Get Addmission In Indrashil University? Currently I'm Pursuing Diploma In IT 6th Sem So I Have To Complete My B.Tech In Indrashil Uni?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Indrashil University",
+                "tag_url": "https://www.shiksha.com/university/indrashil-university-ahmedabad-57333"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vishal Saini",
+                  "profile_url": "https://www.shiksha.com/userprofile/100805778"
+                },
+                "answer_text": "Yes, you can apply for B.Tech at Indrashil University through lateral entry after completing your Diploma in IT. You will get admission directly in 2nd year (3-year B.Tech), subject to university eligibility. Process: Contact the Indrashil University admission office, check lateral entry availability, submit Diploma marksheets and required documents, and apply as per their guidelines.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Sir, does CGPA matters for best placements in LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "At LPU, CGPA holds crucial importance because students need to achieve a minimum CGPA of 5.0 for placement registration yet mass recruiters usually expect candidates to have CGPA scores between 6.5 and 7.0 whereas elite companies like Microsoft require candidates to maintain a CGPA of at least 8.0 without any backlogs. Students with higher CGPA scores gain access to \"topper sections\" which provide opportunities to work with superior companies that offer salary packages starting from ₹10 LPA through their skills and interview performance.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "9 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "Best private college in low fees",
             "tags": [
@@ -792,7 +896,7 @@
                 "answer_text": "Mohamed Sathak Engineering college, kilakkarai, Ramanathapuram.",
                 "upvotes": 1,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -818,7 +922,7 @@
                 "answer_text": "Yes — pursuing a B.Tech in Aerospace Engineering from LPU can be a decent option if you value good campus infrastructure, supportive faculty, and hands-on exposure , but it isn't among India's top aerospace schools. LPU is ranked moderately among engineering colleges offering this course, often placed below the highest-ranked institutions in metrics like core faculty research and placement networks.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -844,7 +948,7 @@
                 "answer_text": "The Diploma and B.Tech in Mechanical Engineering programme at LPU provides excellent practical training for design, manufacturing, and automation work through its industry-connected curriculum and advanced laboratory facilities, which operate at NIRF-Engineering rank 50. The B.Tech lateral entry programme from Diploma requires students to achieve 60% or higher marks for eligibility. LPU achieves high placement rates between 78% and 85% for Mechanical students who have particular skills and CGPA scores above 6 and no active backlogs. The university does not provide 100% employment guarantees.",
                 "upvotes": 1,
                 "downvotes": 0,
-                "posted_time": "12 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -870,110 +974,6 @@
                 "answer_text": "Lovely Professional University (LPU) stands as one of India's the largest private universities which established its campus in 2005 on a 600-acre site that features contemporary educational facilities including advanced laboratories and library resources and athletic training areas. The university which holds NAAC A+ accreditation with a CGPA of 3.68 offers 150+ programs in engineering and management and law and design and other fields while emphasizing practical learning and innovation and global exposure and strong placement outcomes which feature salaries reaching INR 2.5 Cr for B.Tech graduates. The university which holds NAAC A+ a",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is better for B.Tech- LPU or MSRIT?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nayini Manoj Kumar Goud",
-                  "profile_url": "https://www.shiksha.com/userprofile/99478242"
-                },
-                "answer_text": "MSRIT is an old, well-respected engineering college and it's located in Bangalore, which is a big advantage for internships, tech exposure, and jobs. The teaching quality and peer group are usually stronger, and the fees are more reasonable for what you get. LPU is a huge university with a very good campus life and lots of activities. Placements are okay, but because the student intake is very large, competition is high and outcomes can vary a lot from student to student.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What makes GIBS placements stand out compared to other PGDM colleges in Bangalore?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Gitarattan International Business School",
-                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nayini Manoj Kumar Goud",
-                  "profile_url": "https://www.shiksha.com/userprofile/99478242"
-                },
-                "answer_text": "GIBS placements stand out mainly because the college genuinely puts effort into getting students job-ready. They don't just wait for companies to come; they train students with mock interviews, skill sessions, internships, and constant guidance, so people feel more confident during placements. Another big plus is the variety of companies. Students aren't limited to just one field there are opportunities in marketing, finance, HR, IT, banking, and even startups. That gives everyone a fair chance to find a role that suits them. The salary packages are also decent for a PGDM college in Bangalore not unrealistic promises, but solid offers th",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU a good university to do B.Tech in ECE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "Yes — LPU is a good option for B.Tech in ECE (Electronics & Communication Engineering), especially if you are realistic about outcomes and plan to work hard. Here's a clear look: 📌 Strong Placement Highlights: LPU has produced very high packages for ECE students , including a ₹2.5 crore domestic offer in robotics and ₹1.03 crore for another student in recent years — showing top performers can excel .  Some students have also secured packages nearly ₹19.5–₹62 LPA at good companies. 📈 Average & Typical Outcomes: For most ECE graduates, the average packages are generally in the ₹5–10 LPA range ,",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "Which private colleges provide good placements for B.Tech in biotech other than LPU, VIT, Amity and Manipal?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
-                },
-                "answer_text": "Yes — besides LPU, VIT, Amity, and Manipal , there are several private colleges in India that offer B.Tech Biotechnology and have relatively good placement prospects , though biotech placements overall tend to be more modest than core CS/IT . Some worth considering include SRM Institute of Science and Technology (Chennai) , which is known for biotech labs, industry tie-ups, internship opportunities, and decent recruiter interest; Shoolini University (Himachal Pradesh) which has strong industry collaborations and reports very high placement rates in biotech-related programs; ICFAI School of Life Sciences and Chaitanya Bharathi Institute o",
-                "upvotes": 0,
-                "downvotes": 0,
                 "posted_time": "Yesterday"
               }
             ]
@@ -996,7 +996,7 @@
             ],
             "question_text": "SCOPE of web development in future.",
             "followers": 11,
-            "views": "2.2000",
+            "views": "2.3000",
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
@@ -1038,7 +1038,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 462,
+            "views": 463,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
