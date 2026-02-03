@@ -762,86 +762,34 @@
     "QAN": {
       "QA": {
         "tag_name": "B.Tech",
-        "description": "Get insights from 61k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
+        "description": "Get insights from 61.1k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
         "stats": {
-          "Questions": "61k",
+          "Questions": "61.1k",
           "Discussions": "10",
-          "Active Users": "383",
+          "Active Users": "377",
           "Followers": "201266"
         },
         "questions": [
           {
-            "question_text": "What is the DSU KCET Cutoff 2025?",
+            "question_text": "Which college is better for B.Tech among Chitkara University and Chandigarh University?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "DSU - Dayananda Sagar University",
-                "tag_url": "https://www.shiksha.com/university/dsu-dayananda-sagar-university-bangalore-48042"
+                "tag_name": "Chandigarh University (CU)",
+                "tag_url": "https://www.shiksha.com/university/chandigarh-university-cu-45668"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                  "name": "siya goyal",
+                  "profile_url": "https://www.shiksha.com/userprofile/100780676"
                 },
-                "answer_text": "The DSU KCET cutoff 2025 was released for admission to the BTech courses for all rounds and categories under the All India and Home State quota. For the General AI category, the last round cutoff ranged from 24798 to 121064.5 , wherein the most competitive course for admission was B.Tech. in Aerospace Engineering. Students can see the table below to know the last round cutoff for the General AI category. The courses are sorted from the least to the most competitive. Course Last Round (Closing Rank) B.Tech. in Mechanical Engineering 121064.5 B.Tech. in Computer Science and Engineering and Medical Engineering 60519 Bachelor of Pharmacy (B.Pharm.) 43869 B.Tech in Robotics and AI 41943 B.Tech. in Computer Science and Technology 38860 B.Tech. in Computer Science Engineering (Cyber Security) 35454 B.Tech. in Electronics and Communication Engineering 35194.5 B.Tech. in Computer Science Engineering (Data Sciences) 34453 BTECH IN COMPUTER Science AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) 32865 B.Tech. in Computer Science and Engineering 31148 B.Tech. in Computer Science Engineering (Artificial Intelligence and Machine Learning) 27669 B.Tech. in Aerospace Engineering 24798",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "15 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the Dayananda Sagar University COMEDK UGET cutoff?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "DSU - Dayananda Sagar University",
-                "tag_url": "https://www.shiksha.com/university/dsu-dayananda-sagar-university-bangalore-48042"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "Dayananda Sagar University COMEDK UGET cutoff 2023 was published for admission to the BTech course for various categories under the All India and Home State quota. For the General AI category, the last round cutoff ranged from 29314 to 38529 , wherein B.Tech in Robotics and AI was the most popular course specialisation for admission. Students should keep in mind that this is the cutoff for the Genera AI category; other rounds, categories, courses, etc., will have different cutoffs accordingly.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "23 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is there any sports or recreation facility at the Bangalore campus of Polaris School of Technology?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Polaris School of Technology",
-                "tag_url": "https://www.shiksha.com/college/polaris-school-of-technology-electronic-city-bangalore-238876"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Keertana",
-                  "profile_url": "https://www.shiksha.com/userprofile/54113555"
-                },
-                "answer_text": "Actually I have been to Polaris School of technology for my BTech admission in the fields of computer Science engineering so when I went there the campus look really amazing it was inside the big  tecPark All is an expected studies internship programs and there are very limited sports facilities there does no sports ground or nothing it's just a normal block of building present in the mist of the company",
+                "answer_text": "Chandigarh University offers a well-rounded B.E programme that balances academic depth with practical application. The engineering curriculum is designed to meet industry standards and evolving technological trends. Students are encouraged to work on real-time projects, participate in technical competitions, and engage in internships from early semesters. The university provides modern laboratories, experienced faculty, and a strong emphasis on skill development. Regular workshops, coding challenges, and technical training sessions help students build problem-solving and analytical abilities. Placement preparation is integrated into th",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "2 hours ago"
@@ -849,25 +797,129 @@
             ]
           },
           {
-            "question_text": "Can I Get Addmission In Indrashil University? Currently I'm Pursuing Diploma In IT 6th Sem So I Have To Complete My B.Tech In Indrashil Uni?",
+            "question_text": "Are scholarships available for BTech students in Kanpur?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Indrashil University",
-                "tag_url": "https://www.shiksha.com/university/indrashil-university-ahmedabad-57333"
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shubh Patel",
-                  "profile_url": "https://www.shiksha.com/userprofile/69563387"
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Yes you can get, but more beat university in Gujarat you can get admission in this university like gtu, Ahmedabad, nirma, adani",
+                "answer_text": "Yes, there are diverse scholarships available for BTech students in Kanpur. Students can apply for: State government Central government schemes SC/ST/OBC/EWS Merit-based scholarships offered by colleges Source: External site and vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are BTech colleges in Kanpur AICTE approved?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Colleges in Kanpur",
+                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Most recognised colleges in Kanpur are: AICTE approved Affiliated to AKTU (Dr. APJ Abdul Kalam Technical University) or are autonomous universities Students should always check approval before taking admission. Source: External site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is hostel facility available in Kanpur BTech colleges?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Kanpur",
+                "tag_url": "https://www.shiksha.com/tags/kanpur-tdp-386405"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Yes, most BTech colleges in Kanpur provide: Separate hostels for boys and girls Mess and basic medical facilities Wi-Fi and study areas Hostel fees usually range from ₹40,000 to ₹1.2 Lacs per year Source: External site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are private BTech colleges in Kanpur worth joining?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Colleges in Kanpur",
+                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Yes absolutely, it is worth to join private BTech colleges in Kanpur. Candidates can check the table below for the top private colleges with their tuition fees and BTech seat intake - vate Colleges Tuition Fee BTech Seat Intake PSIT Kanpur BTech Course INR 2.19 Lacs – INR 5.4 lakh 1,860 Kanpur Institute of Technology BTech Course INR 1.65 Lacs – INR 5.51 lakh 420 Allenhouse Institute of Technology BTech Course INR 2.45 Lacs – INR 3.92 lakh 480 Maharana Pratap Engineering College BTech Course INR 2.45 lakh 900 Rama University, Kanpur BTech Course INR 3.2 Lacs – INR 4.5 lakh 360",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility for BTech admission in Kanpur?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Hi, To get admission in BTech colleges in Kanpur, candidates must follow the eligibility criteria mentioned below - Candidates must pass Class 12 with Physics and Mathematics They should have studied Chemistry / Computer Science / Biotechnology Minimum marks usually range from 45% to 60% . Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "5 hours ago"
@@ -875,25 +927,25 @@
             ]
           },
           {
-            "question_text": "What are the specialised courses offered by BTech colleges in Gujarat?",
+            "question_text": "What are the popular B.Tech branches available in Kanpur?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Colleges in Gujarat",
-                "tag_url": "https://www.shiksha.com/tags/colleges-in-gujarat-tdp-187082"
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shubh Patel",
-                  "profile_url": "https://www.shiksha.com/userprofile/69563387"
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Computer engineering and also electronic communication",
+                "answer_text": "CSE is the most popular specialisations offered in Kanpur BTech colleges. Some of the other are mentioned below - Computer Science Engineering (CSE) Information Technology (IT) Mechanical Engineering Electrical Engineering Electronics & Communication Engineering (ECE) Civil Engineering, etc. Source: External site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "5 hours ago"
@@ -901,132 +953,80 @@
             ]
           },
           {
-            "question_text": "What is the Zeal College of Engineering and Research JEE Main cutoff 2025?",
+            "question_text": "Are there good government BTech colleges in Kanpur other than IIT?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Zeal College of Engineering and Research",
-                "tag_url": "https://www.shiksha.com/college/zeal-college-of-engineering-and-research-narhe-pune-36894"
+                "tag_name": "Colleges in Kanpur",
+                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Zeal College of Engineering and Research JEE Main cutoff 2025 was released for admission to the BTech courses and its various specialisation for multiple categories under the All India quota. For the General AI quota, the cutoff ranged from 161959 to 306283 , wherein B.Tech in Computer Engineering was the most challenging course for admission. Students should remember that the cutoff for other category, round, etc., will vary accordingly.",
+                "answer_text": "Yes, there are many government BTech colleges in Kanpur other than IIT. Some of them are mentioned below with tutition fees and seat intake - Government Colleges Tuition Fee BTech Seat Intake Harcourt Butler Technical University BTech Course INR 2.25 Lacs – INR 3 lakh 930 University Ambedkar Institute of Technology for Handicapped BTech Course INR 2 Lacs – INR 2.67 lakh 1,380 Uttar Pradesh Textile Technology Institute BTech Course INR 1.87 Lacs – INR 2.45 lakh 200 University Institute of Engineering and Technology, CSJM University BTech Course INR 3.61 Lacs – INR 4.61 lakh 570 Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "5 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the Zeal College of Engineering and Research MHT CET cutoff 2023?",
+            "question_text": "Is my decision right of taking admission in LPU for B.Tech CSE? I got 80% in 12th CBSE board.",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Zeal College of Engineering and Research",
-                "tag_url": "https://www.shiksha.com/college/zeal-college-of-engineering-and-research-narhe-pune-36894"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
                 },
-                "answer_text": "The Zeal College of Engineering and Research MHT CET cutoff 2023 was released for admission to the BTech courses for both the All India and Home State quota. The cutoff ranged from 17.6 to 88.1 percentile for the General HS quota, wherein B.Tech in Computer Engineering was the hardest course for admission. Students should remember that the cutoff for other category, round, etc., will vary accordingly.",
+                "answer_text": "Here is the honest, \"Senior-to-Junior\" reality check. Short Answer: Yes, it is a \"Safe\" and \"Smart\" decision, provided you don't treat it like a vacation. Here is why your 80% makes you a good fit, but also where you need to be careful: 1. The \"80% Dilemma\" (Why LPU fits) Let's be real—with 80% in CBSE, you are in a tricky spot. You are too good for random local colleges (where no companies visit), but you might have missed the cutoff for top-tier NITs/IIITs (unless you have a great JEE score). The Scholarship Win: At LPU, your 80% is an asset. It likely qualifies you for a Category II or III Scholarship (depending on the current cutoff).",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "16 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the NIET JEE Main cutoff trend for BTech CSE?",
+            "question_text": "Sir, does CGPA matters for best placements in LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Nehru Institute of Engineering and Technology",
-                "tag_url": "https://www.shiksha.com/college/nehru-institute-of-engineering-and-technology-coimbatore-24916"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 0,
+            "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
                 },
-                "answer_text": "NIET JEE Main cutoff 2024 was published for admission to the BTech course specialisations. The cutoff was released in the form of ranks for various categories under both the All India and Home State quota. For the General AI category, the BTech CSE course had a cutoff of 247159 . In 2024 and 2023, the cutoff was 228214 and 149531 , respectively. This change in the cutoff  ranks says that competition has been decreeasing over the years, since the lower the rank, the easier the admission.",
+                "answer_text": "To answer your query on Shiksha : Yes, CGPA is the \"Gatepass\" for High Packages at LPU. While skills get you the job, your CGPA decides which companies you are even allowed to sit for. Here is the breakdown: For \"Super Dream\" Companies (10 LPA+): You typically need a CGPA of 7.5 to 8.0+ with no standing backlogs . Top recruiters like Microsoft, Amazon, and Palo Alto often filter students strictly by CGPA before the first coding round. For Mass Recruiters (3-5 LPA): A CGPA of 6.0 or 6.5 is usually sufficient. The Reality: If you have exceptional coding skills but a 6.0 CGPA, you might miss the opportunity to even appear for the test. Verdict: M",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the total tuition fee of BTech at Adamas University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Adamas University",
-                "tag_url": "https://www.shiksha.com/university/adamas-university-kolkata-46715"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vishakha Saxena",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589342"
-                },
-                "answer_text": "Adamas University offers a BTech programme at the UG level. It is offered in full-time mode and is approved by the AICTE. The total tuition fee of BTech at Adamas University ranges between INR 65,000 and INR 8.9 lakh.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Do top universities through CUET allow course like B.Tech with CSE? And what are their respective cutoffs",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "CUET",
-                "tag_url": "https://www.shiksha.com/science/cuet-exam"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Venkatesh",
-                  "profile_url": "https://www.shiksha.com/userprofile/100935128"
-                },
-                "answer_text": "No, cuet is not compulsory to take admission in matoshri pratishthan group of institutions Nanded",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "16 hours ago"
               }
             ]
           }
@@ -1077,7 +1077,7 @@
             "answer_text": "Hi! Many private colleges create confusion with unclear admission criteria, hidden fees, and changing quotas. Thapar University is a genuine, accredited private university — always check eligibility, seat allocation, and fees before applying. Verify all details in writing and consult current students to avoid surprises."
           },
           {
-            "posted_time": "a month ago",
+            "posted_time": "2 months ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -1153,7 +1153,7 @@
             ],
             "question_text": "MBA from IIM or M.Tech. From IIT What you have to say?",
             "followers": 2,
-            "views": 2000,
+            "views": "2.1000",
             "author": {
               "name": "RISHAV Kumar",
               "profile_url": "https://www.shiksha.com/userprofile/95309914"
