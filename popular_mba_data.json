@@ -766,38 +766,12 @@
         "stats": {
           "Questions": "61.1k",
           "Discussions": "10",
-          "Active Users": "377",
+          "Active Users": "378",
           "Followers": "201266"
         },
         "questions": [
           {
-            "question_text": "Which college is better for B.Tech among Chitkara University and Chandigarh University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Chandigarh University (CU)",
-                "tag_url": "https://www.shiksha.com/university/chandigarh-university-cu-45668"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "siya goyal",
-                  "profile_url": "https://www.shiksha.com/userprofile/100780676"
-                },
-                "answer_text": "Chandigarh University offers a well-rounded B.E programme that balances academic depth with practical application. The engineering curriculum is designed to meet industry standards and evolving technological trends. Students are encouraged to work on real-time projects, participate in technical competitions, and engage in internships from early semesters. The university provides modern laboratories, experienced faculty, and a strong emphasis on skill development. Regular workshops, coding challenges, and technical training sessions help students build problem-solving and analytical abilities. Placement preparation is integrated into th",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Are scholarships available for BTech students in Kanpur?",
+            "question_text": "What are the top private BTech colleges in Thane?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -815,93 +789,15 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Yes, there are diverse scholarships available for BTech students in Kanpur. Students can apply for: State government Central government schemes SC/ST/OBC/EWS Merit-based scholarships offered by colleges Source: External site and vary.",
+                "answer_text": "Candidates can check the table below for the top private BTech colleges in Thane with their tuition fees and BTech seat intake - Private Colleges Tuition Fee BTech Seat Intake A. P. Shah Institute of Technology BTech Course INR 4.12 lakh 780 New Horizon Institute of Technology & Management BTech Course INR 2.73 lakh 480 Shree L.R. Tiwari College of Engineering BTech Course INR 3.12 Lacs – INR 4.16 lakh 900 Theem College of Engineering BTech Course INR 2.56 lakh 450 Shivajirao S. Jondhale College of Engineering BTech Course INR 3.19 lakh 430 Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "36 mins ago"
               }
             ]
           },
           {
-            "question_text": "Are BTech colleges in Kanpur AICTE approved?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Colleges in Kanpur",
-                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Most recognised colleges in Kanpur are: AICTE approved Affiliated to AKTU (Dr. APJ Abdul Kalam Technical University) or are autonomous universities Students should always check approval before taking admission. Source: External site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is hostel facility available in Kanpur BTech colleges?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Kanpur",
-                "tag_url": "https://www.shiksha.com/tags/kanpur-tdp-386405"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Yes, most BTech colleges in Kanpur provide: Separate hostels for boys and girls Mess and basic medical facilities Wi-Fi and study areas Hostel fees usually range from ₹40,000 to ₹1.2 Lacs per year Source: External site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Are private BTech colleges in Kanpur worth joining?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Colleges in Kanpur",
-                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Yes absolutely, it is worth to join private BTech colleges in Kanpur. Candidates can check the table below for the top private colleges with their tuition fees and BTech seat intake - vate Colleges Tuition Fee BTech Seat Intake PSIT Kanpur BTech Course INR 2.19 Lacs – INR 5.4 lakh 1,860 Kanpur Institute of Technology BTech Course INR 1.65 Lacs – INR 5.51 lakh 420 Allenhouse Institute of Technology BTech Course INR 2.45 Lacs – INR 3.92 lakh 480 Maharana Pratap Engineering College BTech Course INR 2.45 lakh 900 Rama University, Kanpur BTech Course INR 3.2 Lacs – INR 4.5 lakh 360",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility for BTech admission in Kanpur?",
+            "question_text": "What campus facilities do BTech colleges in Thane provide?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -919,15 +815,15 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Hi, To get admission in BTech colleges in Kanpur, candidates must follow the eligibility criteria mentioned below - Candidates must pass Class 12 with Physics and Mathematics They should have studied Chemistry / Computer Science / Biotechnology Minimum marks usually range from 45% to 60% . Source: Official site and may vary.",
+                "answer_text": "Hi, The key facilities provided by the top BTech colleges in Thane are mentioned below - Academic Infrastructure like labs and classrooms Digital Connectivity Learning Resources like Libraries Campus Life like Canteens, etc. Source: External site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "38 mins ago"
               }
             ]
           },
           {
-            "question_text": "What are the popular B.Tech branches available in Kanpur?",
+            "question_text": "Is it worth joining the top BTech colleges in Thane?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -945,23 +841,49 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "CSE is the most popular specialisations offered in Kanpur BTech colleges. Some of the other are mentioned below - Computer Science Engineering (CSE) Information Technology (IT) Mechanical Engineering Electrical Engineering Electronics & Communication Engineering (ECE) Civil Engineering, etc. Source: External site and may vary.",
+                "answer_text": "Joining the top BTech colleges in Thane can be worthwhile for you. Candidates can chec the worth by comparing tuition fees and average salary. Listed below are the top colleges - Top Colleges Tuition Fee Average Salary A. P. Shah Institute of Technology Placements INR 4.12 lakh INR 4.28 LPA Shree L.R. Tiwari College of Engineering Placements INR 3.12 Lacs – INR 4.16 lakh INR 3.6 LPA Shivajirao S. Jondhale College of Engineering Placements INR 3.19 lakh INR 3.6 LPA Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "41 mins ago"
               }
             ]
           },
           {
-            "question_text": "Are there good government BTech colleges in Kanpur other than IIT?",
+            "question_text": "What are the top government BTech colleges in Thane?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Colleges in Kanpur",
-                "tag_url": "https://www.shiksha.com/tags/colleges-in-kanpur-tdp-187336"
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "42 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is pursuing BTech from Thane colleges expensive?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
               }
             ],
             "followers": 0,
@@ -971,62 +893,140 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Yes, there are many government BTech colleges in Kanpur other than IIT. Some of them are mentioned below with tutition fees and seat intake - Government Colleges Tuition Fee BTech Seat Intake Harcourt Butler Technical University BTech Course INR 2.25 Lacs – INR 3 lakh 930 University Ambedkar Institute of Technology for Handicapped BTech Course INR 2 Lacs – INR 2.67 lakh 1,380 Uttar Pradesh Textile Technology Institute BTech Course INR 1.87 Lacs – INR 2.45 lakh 200 University Institute of Engineering and Technology, CSJM University BTech Course INR 3.61 Lacs – INR 4.61 lakh 570 Source: Official site and may vary.",
+                "answer_text": "Pursuing a BTech in Thane is generally considered moderately priced to affordable compared to top-tier private engineering colleges for the entire 4-year program. Listed below are the top colleges with their expensive tuition fees - Top Colleges Tuition Fee A. P. Shah Institute of Technology INR 4.12 lakh College of Agriculture Biotechnology, Saralgaon INR 3.9 lakh Shree L.R. Tiwari College of Engineering INR 3.12 Lacs - INR 4.16 lakh Shivajirao S. Jondhale College of Engineering INR 3.19 lakh Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "43 mins ago"
               }
             ]
           },
           {
-            "question_text": "Is my decision right of taking admission in LPU for B.Tech CSE? I got 80% in 12th CBSE board.",
+            "question_text": "Which is the best BTech college in Thane?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Here is the honest, \"Senior-to-Junior\" reality check. Short Answer: Yes, it is a \"Safe\" and \"Smart\" decision, provided you don't treat it like a vacation. Here is why your 80% makes you a good fit, but also where you need to be careful: 1. The \"80% Dilemma\" (Why LPU fits) Let's be real—with 80% in CBSE, you are in a tricky spot. You are too good for random local colleges (where no companies visit), but you might have missed the cutoff for top-tier NITs/IIITs (unless you have a great JEE score). The Scholarship Win: At LPU, your 80% is an asset. It likely qualifies you for a Category II or III Scholarship (depending on the current cutoff).",
+                "answer_text": "As per popularity basis by shiksha.com, Candidates can see the table below for the best BTech colleges in Thane with their tuition fees - Top Colleges Tuition Fee A. P. Shah Institute of Technology INR 4.12 lakh New Horizon Institute of Technology & Management INR 2.73 lakh Shree L.R. Tiwari College of Engineering INR 3.12 Lacs - INR 4.16 lakh Theem College of Engineering INR 2.56 lakh Shivajirao S. Jondhale College of Engineering INR 3.19 lakh Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "16 hours ago"
+                "posted_time": "47 mins ago"
               }
             ]
           },
           {
-            "question_text": "Sir, does CGPA matters for best placements in LPU?",
+            "question_text": "What is the average tuition fee for BTech colleges in Thane?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "Colleges in Thane",
+                "tag_url": "https://www.shiksha.com/tags/colleges-in-thane-tdp-187230"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "The average tuition fee of Thane BTech colleges may vary from government to private colleges. Candidates can check the table below for the top BTech colleges in Thane with their tuition fees and their seat intake - Top Colleges Tuition Fee BTech Seat Intake A. P. Shah Institute of Technology BTech Course INR 4.12 lakh 780 New Horizon Institute of Technology & Management BTech Course INR 2.73 lakh 480 Shree L.R. Tiwari College of Engineering BTech Course INR 3.12 Lacs – INR 4.16 lakh 900 College of Food Technology, Murbad BTech Course INR 2.68 lakh 81 College of Agriculture Engineering and Technology BTech Course INR 2.68 lakh 40 Source: Official site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "51 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility for BTech admission in Thane colleges?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "The general eligibility criteria to get admission to BTech colleges in Thane includes passing Class 12 with Physics, Mathematics, and Chemistry with an aggregate of 45-60% marks from a recognised board. Clear an entrance exam like JEE Main and MHT CET.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "53 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many BTech colleges are there in Thane?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "There are more than 20 BTech colleges are there in Thane including both private and semi government colleges. Some of the top colleges are A. P. Shah Institute of Technology, New Horizon Institute of Technology & Management, Shree L.R. Tiwari College of Engineering, Theem College of Engineering, and many others. Admission are usually based on JEE Main and MHT CET entrance exam score basis.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "55 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is the best college to pursue B.Tech among TIT-Bhopal, LPU-Jalandhar, BBD-Lucknow and SRMU-Lucknow?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Babu Banarasi Das University",
+                "tag_url": "https://www.shiksha.com/university/babu-banarasi-das-university-lucknow-33058"
               }
             ],
             "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                  "name": "Sona",
+                  "profile_url": "https://www.shiksha.com/userprofile/76852093"
                 },
-                "answer_text": "To answer your query on Shiksha : Yes, CGPA is the \"Gatepass\" for High Packages at LPU. While skills get you the job, your CGPA decides which companies you are even allowed to sit for. Here is the breakdown: For \"Super Dream\" Companies (10 LPA+): You typically need a CGPA of 7.5 to 8.0+ with no standing backlogs . Top recruiters like Microsoft, Amazon, and Palo Alto often filter students strictly by CGPA before the first coding round. For Mass Recruiters (3-5 LPA): A CGPA of 6.0 or 6.5 is usually sufficient. The Reality: If you have exceptional coding skills but a 6.0 CGPA, you might miss the opportunity to even appear for the test. Verdict: M",
+                "answer_text": "Among TIT-Bhopal, LPU-Jalandhar, BBD-Lucknow, and SRMU-Lucknow, all are good in their own ways-but LPU (Lovely Professional University) stands out for a few clear reasons. LPU offers a large and diverse campus, industry-relevant curriculum, strong placement support, and plenty of hands-on learning through labs, projects, and collaborations. The exposure you get-academically and socially-makes it one of the best places among these options to pursue B.Tech and build a well-rounded engineering career.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "16 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           }
@@ -1035,7 +1035,7 @@
       "QAD": {
         "questions": [
           {
-            "posted_time": "3 weeks ago",
+            "posted_time": "4 weeks ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -1119,7 +1119,7 @@
             "answer_text": "The main differences are that B.Tech CSE is a four-year engineering degree with a strong focus on theoretical and practical aspects of both software and hardware, while BCA is a three-year professional degree that focuses primarily on the practical application of computer science, such as software development and coding skills. B.Tech CSE provides a more in-depth, engineering-oriented education, while BCA offers a more application-focused curriculum, which can make it a faster path to industry entry but may lead to fewer advanced technical roles without further study."
           },
           {
-            "posted_time": "6 months ago",
+            "posted_time": "7 months ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -1140,7 +1140,7 @@
             "answer_text": "What about IIIT'S"
           },
           {
-            "posted_time": "6 months ago",
+            "posted_time": "7 months ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
