@@ -157,43 +157,43 @@
           "specializations": [
             {
               "specialization": "Electrical Engineering",
-              "college_count": "44Colleges"
+              "college_count": "44  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "32Colleges"
+              "college_count": "32  Colleges"
             },
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "19Colleges"
+              "college_count": "19  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "18Colleges"
+              "college_count": "18  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "15Colleges"
+              "college_count": "15  Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "10Colleges"
+              "college_count": "10  Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "6Colleges"
+              "college_count": "6  Colleges"
             },
             {
               "specialization": "Aeronautical Engineering",
-              "college_count": "4Colleges"
+              "college_count": "4  Colleges"
             },
             {
               "specialization": "Automobile Engineering",
-              "college_count": "4Colleges"
+              "college_count": "4  Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "2Colleges"
+              "college_count": "2  Colleges"
             }
           ]
         }
