@@ -157,43 +157,43 @@
           "specializations": [
             {
               "specialization": "Electrical Engineering",
-              "college_count": "44  Colleges"
+              "college_count": "44Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "32  Colleges"
+              "college_count": "32Colleges"
             },
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "19  Colleges"
+              "college_count": "19Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "18  Colleges"
+              "college_count": "18Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "15  Colleges"
+              "college_count": "15Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "10  Colleges"
+              "college_count": "10Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "6  Colleges"
+              "college_count": "6Colleges"
             },
             {
               "specialization": "Aeronautical Engineering",
-              "college_count": "4  Colleges"
+              "college_count": "4Colleges"
             },
             {
               "specialization": "Automobile Engineering",
-              "college_count": "4  Colleges"
+              "college_count": "4Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "2  Colleges"
+              "college_count": "2Colleges"
             }
           ]
         }
@@ -766,38 +766,12 @@
         "stats": {
           "Questions": "61.1k",
           "Discussions": "10",
-          "Active Users": "376",
+          "Active Users": "373",
           "Followers": "201266"
         },
         "questions": [
           {
-            "question_text": "Is LPU good for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "Lovely Professional University (LPU) is good for pursuing CSE because it offers modern labs, industry-aligned curriculum, coding clubs, hackathons, and opportunities for internships. The environment encourages practical learning and skill development , which are important for software and tech careers. Yes, you can get on-campus placements at LPU . Many companies visit the campus each year, including IT firms, startups, and product companies. Your CGPA, projects, communication skills, and preparation will influence your placement opportunities. Strong technical skills, certifications, and internships boost your chances of securing good on",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is my decision right of taking admission in LPU for B.Tech CSE? I got 80% in 12th CBSE board.",
+            "question_text": "Which one is better LPU or Manipal Institute of Technology for B.Tech?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -812,117 +786,169 @@
             "answers": [
               {
                 "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                  "name": "shilpa sachdav",
+                  "profile_url": "https://www.shiksha.com/userprofile/49743397"
                 },
-                "answer_text": "With 80% in 12th CBSE, choosing B.Tech CSE at LPU can be a good decision. The university offers a well-structured CSE curriculum with coding, core computer subjects, and exposure to new technology areas. Infrastructure and labs support practical learning, and faculty guidance is available for students who stay consistent. On-campus placement opportunities are provided, and many students get placed in IT companies through regular drives. Overall, LPU offers good exposure and opportunities for CSE students.",
+                "answer_text": "Both LPU and Manipal Institute of Technology (MIT) are respected names in engineering education, but LPU offers a distinct edge with its modern, industry-driven approach. With smart classrooms, advanced labs, live projects, and training on tools like AutoCAD, CATIA, and ANSYS, LPU ensures students gain hands-on expertise that matches industry requirements. Add to that strong global tie-ups,  2,200+ recruiters visiting for placements, and a vibrant campus life, and it's clear why LPU is the best choice for B.Tech—because it doesn't just teach engineering, it builds future-ready engineers.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "To what extent do internships lead to pre-placement offers for GIBS students?",
+            "question_text": "What is the \"Value for Money\" rating of Polaris School of Technology?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "GIBS Corporate Academy, Bangalore",
-                "tag_url": "https://www.shiksha.com/college/gibs-corporate-academy-bangalore-242416"
+                "tag_name": "Polaris School of Technology",
+                "tag_url": "https://www.shiksha.com/college/polaris-school-of-technology-electronic-city-bangalore-238876"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Mohammed Maqsood",
-                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
+                  "name": "Harshith",
+                  "profile_url": "https://www.shiksha.com/userprofile/101208530"
                 },
-                "answer_text": "Internships are critical for a student's final placement, and are the main pathway to receiving job Offers after graduation. Internships provide employers with the opportunity to consider students for full-time positions, as they can measure the ability of students while they are working. While the placement statistics at GIBS indicate that 85%+ of students are offered pre-placement job offers (PPOs) as a result of their internships, thus demonstrates a strong preference among employers to hire a student they have trained. Students gain valuable experience through their internships, which gives them increased chances of",
+                "answer_text": "Almost every facility in the college is value for money. The way of teaching and very friendly faculties, overall support in academics.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 hours ago"
+                "posted_time": "19 hours ago"
               }
             ]
           },
           {
-            "question_text": "When does NIT Jamshedpur BTech admission process start?",
+            "question_text": "What are the hostel facilities like at Polaris School of Technology?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "NIT Jamshedpur - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-jamshedpur-national-institute-of-technology-24366"
+                "tag_name": "Polaris School of Technology",
+                "tag_url": "https://www.shiksha.com/college/polaris-school-of-technology-electronic-city-bangalore-238876"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Pasham netra",
-                  "profile_url": "https://www.shiksha.com/userprofile/101108410"
+                  "name": "Harshith",
+                  "profile_url": "https://www.shiksha.com/userprofile/101208530"
                 },
-                "answer_text": "I don't know",
+                "answer_text": "The hostel facility is really good, there is a wifi facility, play area like indoor sports and gym facilities. The hostel is very clean and hygienic. It feels like home and I didn't miss my home",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 hours ago"
+                "posted_time": "19 hours ago"
               }
             ]
           },
           {
-            "question_text": "How good are the BTech placements at JECRC?",
+            "question_text": "Are there coding-specific zones on campus at Polaris School of Technology?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Jaipur Engineering College & Research Centre",
-                "tag_url": "https://www.shiksha.com/college/jaipur-engineering-college-research-centre-24095"
+                "tag_name": "Polaris School of Technology",
+                "tag_url": "https://www.shiksha.com/college/polaris-school-of-technology-electronic-city-bangalore-238876"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Pasham netra",
-                  "profile_url": "https://www.shiksha.com/userprofile/101108410"
+                  "name": "Harshith",
+                  "profile_url": "https://www.shiksha.com/userprofile/101208530"
                 },
-                "answer_text": "I'm not sure about it",
+                "answer_text": "Yes, there's a coding specific zones on campus. There's a place which is like a digital library where students can sit and do their coding work",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 hours ago"
+                "posted_time": "19 hours ago"
               }
             ]
           },
           {
-            "question_text": "How much is the tuition fees for BTech at IIT Gandhinagar?",
+            "question_text": "Does Vedam School of Technology BTech offer online or correspondence learning options?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "IIT Gandhinagar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705"
+                "tag_name": "Vedam School of Technology",
+                "tag_url": "https://www.shiksha.com/college/vedam-school-of-technology-lohegaon-pune-237714"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Pasham netra",
-                  "profile_url": "https://www.shiksha.com/userprofile/101108410"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "It changes every year and varies for different branches as a dig forensics student my fee is 50k",
+                "answer_text": "No, Vedam School of Technology BTech offers a full-time, four-year undergraduate programme designed exclusively for on-campus learning with no correspondence or online options available. You have to physically take classes at school due to its policy.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "7 hours ago"
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "When does the Vedam School of Technology BTech admission process begin?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Vedam School of Technology",
+                "tag_url": "https://www.shiksha.com/college/vedam-school-of-technology-lohegaon-pune-237714"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "Admission process of Vedam School of Technology BTech course begins with the VSAT test scheduled for 10th and 11th February this year. Applications closes on 9th February this year. Apply before the last date.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the year-wise cutoff trend for MVJCE BTech CSE cutoff?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "M.V.J. College of Engineering",
+                "tag_url": "https://www.shiksha.com/college/m-v-j-college-of-engineering-whitefield-bangalore-20690"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "The MVJCE BTech CSE cutoff was released for admission for various categories under both the All India and Home State quota. As per the data below for the General AI category, we can conclude that the competition has been decreasing over the years over the years. The higher the cutoff, the lower the competition. Candidates can check the table below for more information. Course Cutoff 2025 Cutoff 2024 Cutoff 2023 B.E. in Computer Science and Engineering 19389 27296 29603",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "21 hours ago"
               }
             ]
           },
@@ -942,91 +968,65 @@
             "answers": [
               {
                 "author": {
-                  "name": "Manjot singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/87740446"
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
                 },
-                "answer_text": "LPU provides ample opportunities to each and every eligible student to secure good placement with the help of a dedicated Division of Career Services. The university has been ranked highly by various outer agencies with regard to placements of our students More than 550 companies visit every year for such activities and campus-recruitment of students from LPU; and this year for batch graduating in 2020, already more than 500 placement/internship drives have been conducted till January 2020 with leading industry giants",
-                "upvotes": 0,
+                "answer_text": "Placements for B.Tech students at LPU are quite encouraging, giving students a great deal of confidence about their future. The university focuses not just on getting students placed, but on making them industry-ready through skill training, internships, coding culture, and real-world projects. With a wide mix of reputed recruiters, strong career support, and continuous guidance from the placement team, many students find opportunities that match their interests and strengths, making the placement journey feel supportive rather than stressful.",
+                "upvotes": 4,
                 "downvotes": 0,
-                "posted_time": "17 hours ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
           {
-            "question_text": "In CUET 2025 I have PCM and Hindi with total marks 298 out of 1000. Which colleges and central govt. universities can I get for ECE?",
+            "question_text": "Is it necessary to appear for LPUNEST in order to take admission in LPU for B.Tech?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shashwat Shandilya",
-                  "profile_url": "https://www.shiksha.com/userprofile/46431951"
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
                 },
-                "answer_text": "298 is very low score so it is likely impossible to get admission for ECE branch you need to score 600-800 than you can get a government University",
-                "upvotes": 0,
+                "answer_text": "It is not necessary to appear for LPUNEST to take admission in the B.Tech programme at LPU in all cases. While LPUNEST is the primary entrance test and also helps students secure scholarships, LPU does offer alternative admission routes based on qualifying scores in national-level exams like JEE Main or strong academic performance in Class 12, depending on the programme and eligibility criteria. So, LPUNEST is highly recommended for better chances and benefits, but admission without it is possible in certain scenarios.",
+                "upvotes": 4,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
           {
-            "question_text": "How are B.Tech placements at Dr. Ram Manohar Lohia Avadh University?",
+            "question_text": "Sir, does CGPA matters for best placements in LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Dr. Ram Manohar Lohia Avadh University",
-                "tag_url": "https://www.shiksha.com/university/dr-ram-manohar-lohia-avadh-university-uttar-pradesh-other-19953"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 0,
+            "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "vaani",
-                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "B.Tech placements at Lovely Professional University (LPU) are generally considered strong and industry-oriented, with many students securing job offers before or during their final year. The university has built a well-structured placement ecosystem that connects students with a wide range of companies across sectors such as IT, software development, consulting, finance, core engineering, analytics, and product management. The placement cell works year-round, offering training in essential skills like aptitude, communication, coding, interview readiness, and resume building, which significantly improves students' chances during recruit",
+                "answer_text": "hi, Yes, CGPA does matter for the best placements at LPU , but it is not the only factor . Many top companies set a minimum CGPA cut-off (often 7–8 or above) to allow students to sit for interviews. A higher CGPA reflects academic consistency and helps you qualify for more opportunities. However, recruiters also focus heavily on skills, internships, projects, coding ability, communication skills, and practical knowledge . Students with average CGPA but strong technical and soft skills can still secure good jobs. In short, maintain a decent CGPA plus strong skills for the best placement results.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does Dr. Ram Manohar Lohia Avadh University have good placements for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Dr. Ram Manohar Lohia Avadh University",
-                "tag_url": "https://www.shiksha.com/university/dr-ram-manohar-lohia-avadh-university-uttar-pradesh-other-19953"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vaani",
-                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
-                },
-                "answer_text": "Yes, Lovely Professional University (LPU) has good placement opportunities for B.Tech in Computer Science Engineering (CSE) and is considered one of the stronger private universities in this field. CSE is the most in-demand branch at LPU, and it attracts a large number of reputed national and multinational companies every year. Students receive placement offers across roles such as software developer, data analyst, cloud engineer, cybersecurity specialist, and full-stack developer. LPU's placement ecosystem is supported by a dedicated placement cell that provides continuous training in coding, aptitude, communication skills, and i",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
+                "posted_time": "23 hours ago"
               }
             ]
           }
@@ -1035,7 +1035,7 @@
       "QAD": {
         "questions": [
           {
-            "posted_time": "4 weeks ago",
+            "posted_time": "a month ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
