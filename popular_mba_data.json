@@ -771,6 +771,84 @@
         },
         "questions": [
           {
+            "question_text": "Can you tell me, from which university is your college affiliated for B.Tech CSE",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "University College",
+                "tag_url": "https://www.shiksha.com/tags/university-college-tdp-2456811"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Paras chauhan",
+                  "profile_url": "https://www.shiksha.com/userprofile/101286498"
+                },
+                "answer_text": "Our College JSS academy of technical education noida for BTech CSE is affiliated to AKTU University Lucknow. An annual exam fees of 7500 is charged per year for the exams",
+                "upvotes": 1,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is the BTech fees different between specialisations offered by International Institute of Information Technology, Bhubaneswar?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "International Institute of Information Technology, Bhubaneswar",
+                "tag_url": "https://www.shiksha.com/university/international-institute-of-information-technology-bhubaneswar-23733"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "International Institute of Information Technology, Bhubaneswar BTech fees remains the same for all the specialisations offered by the institute. There is also no difference in the BTech fees charged from IIIT Bhubaneswar students of different categories. Thus candidates can choose their preferred BTech course at IIIT Bhubaneswar without considering its course fees.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Best private college in low fees",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ahamed razeen",
+                  "profile_url": "https://www.shiksha.com/userprofile/100765296"
+                },
+                "answer_text": "Srm University in Chennai comparatively low to other college",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "How are the placements for B.Tech in Lovely Professional University?",
             "tags": [
               {
@@ -786,36 +864,10 @@
             "answers": [
               {
                 "author": {
-                  "name": "shikha verma",
-                  "profile_url": "https://www.shiksha.com/userprofile/47283769"
+                  "name": "Ahamed razeen",
+                  "profile_url": "https://www.shiksha.com/userprofile/100765296"
                 },
-                "answer_text": "Placements for B.Tech students at Lovely Professional University (LPU) are generally considered strong compared to many private universities, especially for branches like CSE, IT, and core engineering with emerging specializations. LPU attracts a wide range of national and multinational recruiters including tech firms, consulting companies, and product-based organizations with some students securing high packages through competitive roles, while the average packages remain moderate and depend heavily on skills, academic performance, and project exposure.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get education loan for BTech in Jaipur Engineering College?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech in Jaipur",
-                "tag_url": "https://www.shiksha.com/b-tech/colleges/b-tech-colleges-accepting-upsee-jaipur"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "Yes, you can get education loan for BTech in Jaipur Engineering College. You can take education loan from any of the following banks-PNB, SBI, HDFC, ICICI, IDBI, Canara, Bank of India.",
+                "answer_text": "In many reputed institution B.Tech course offer you a good placements in professional University",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "4 hours ago"
@@ -823,15 +875,15 @@
             ]
           },
           {
-            "question_text": "Are the REAP charges included in the tuition fee of BTech in Jaipur Engineering College?",
+            "question_text": "What is the per semester fee of BTech in IIIT Nagpur?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "B.Tech in Jaipur",
-                "tag_url": "https://www.shiksha.com/b-tech/colleges/b-tech-colleges-accepting-upsee-jaipur"
+                "tag_name": "B.Tech Fees",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
               }
             ],
             "followers": 0,
@@ -841,7 +893,7 @@
                   "name": "Saumya Gairola",
                   "profile_url": "https://www.shiksha.com/userprofile/101125358"
                 },
-                "answer_text": "No, the REAP Charges, University Development Fee, Enrollment Fee & Examination Fee will be charged by Rajasthan Technical University, Kota, additionally as per the norms. They are not included in the BTech tuition fee of JEC.",
+                "answer_text": "The fee for the BTech program in IIIT Nagpur is paid per semester. The per semester fee in the first year is INR 1,23,150. The per semester fee is INR 1,14,150 for the 2nd, 3rd and 4th year. The annual tuition fee remains the same over the course of 4 years at INR 1,98,000.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "5 hours ago"
@@ -849,59 +901,7 @@
             ]
           },
           {
-            "question_text": "What is the application fee for BTech in Jaipur Engineering College?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech in Jaipur",
-                "tag_url": "https://www.shiksha.com/b-tech/colleges/b-tech-colleges-accepting-upsee-jaipur"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "The BTech Application fee in Jaipur Engineering College is INR 1,000. This application fee has to be paid while submitting the application form online on the college website or offline in the college campus.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the fee for BTech in Prestige University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Prestige University",
-                "tag_url": "https://www.shiksha.com/university/prestige-university-pu-indore-181517"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Piyush Anand",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586980"
-                },
-                "answer_text": "Prestige University integrated BTech courses fee is INR 22.5 lakh . This fee amount is for the complete course duration. The annual fee is INR 4.5 lakh . Mentioned fee is as per official sources. Hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU a good university to do B.Tech in ECE?",
+            "question_text": "How are the placements for B.Tech at LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -912,95 +912,17 @@
                 "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 0,
+            "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "LPU can be a good option for B.Tech in ECE if you are ready to focus on both theory and practical learning. The curriculum covers core electronics subjects along with areas like communication systems and embedded technologies. The university provides decent labs and infrastructure for hands-on experience. Placement opportunities are available in both core and IT sectors, though results depend largely on individual skills and preparation.",
+                "answer_text": "Dear reader, B.Tech at LPU is a great choice. Lovely Professional University (LPU) maintains close relationships with more than 2,000 recruiters, including multinational behemoths like Google, Microsoft, and Amazon, which helps it consistently obtain excellent B.Tech placements. Through extensive career advancement training and specific industry-collaborative programs, LPU makes sure that its engineering graduates are in great demand, often landing record-breaking offers and a variety of opportunities in leading Fortune 500 organizations. For more information kindly contact their concerned department. I hope this information helps.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How is the placement and average package offered by LPU for B.Tech in civil?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 3,
-            "answers": [
-              {
-                "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
-                },
-                "answer_text": "For B.Tech Civil at LPU, placement opportunities are available but more focused on core and construction-related companies. Students get roles in areas like site engineering, project management, quality control, and planning. The average package for Civil Engineering is usually around 4 to 6 LPA, depending on skills and company type. Higher packages are possible for students with strong technical knowledge, internships, and software skills like AutoCAD or STAAD. Overall, placements are steady, but individual effort plays a major role in outcomes.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the Year Wise BE/ BTech Cut Off 2025 for MHT CET?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Cut-off",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-cut-off-tdp-166151"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rakshit Prabhakar",
-                  "profile_url": "https://www.shiksha.com/userprofile/97762250"
-                },
-                "answer_text": "Below are the year Wise BE/ BTech RTMNU Cut Off 2025 for MHT CET: College 2023 2024 2025 Smt. Manoramabai Mundle College of Architecture 103.1 – / – 76.67 Ideas Institute of Design Education and Architecture Studies 100.27 – / – 88.6 Priyadarshini Institute of Architecture and Design Studies 121.4 136 107.6 Priyadarshini3 Institute of Technology and Science 120.27 – / – – / –",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is admission open at NIT Patna for BTech?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Patna - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-patna-national-institute-of-technology-23147"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "No, the NIT Patna BTech admissions are yet to be opened for the year 2026. The admissions are typically opened around the month of August after the JoSAA counseling is over. Candidates interested in NIT Patna BTech admissions need to appear for the JEE Mains 2026 whose registrations will be opened soon.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
               }
             ]
           },
@@ -1020,13 +942,91 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ankita Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/48812007"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "Yes, with 65% in 10+2 and 71 percentile in JEE Main, you definitely have a fair chance to get admission into B.Tech, provided you meet the basic eligibility criteria (like required subjects such as PCM). At Lovely Professional University, admissions are flexible and student-friendly - candidates can apply through JEE Main score or appear for LPUNEST, and scholarships are also available based on performance. The university focuses not just on entrance scores but also on giving students the right platform, infrastructure, and placement support to grow in engineering.",
+                "answer_text": "Dear reader, B.Tech at LPU is a great choice. Yes, you stand a good probability of being accepted into Lovely Professional University's B.Tech program. Competitive scores like yours and steady academic performance are valued at LPU. You can gain admission to prestigious engineering specializations, cutting-edge research facilities, and fantastic international placement possibilities by fulfilling the eligibility requirements and making the most of your JEE Main percentile. For more information kindly contact their concerned department.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "10 hours ago"
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the placement rate recorded during IIT BHU BTech placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Indian Institute of Technology, BHU, Varanasi",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Dhanya Arora",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
+                },
+                "answer_text": "As per external sources, IIT BHU placement rate recorded for some of the top Engineering branch during 2025 placements is mentioned below: Branch Placement Rate 2025 CSE 92.3% ECE 81.17% EEE 69.54% Chemical 59.17% Mechanical 67.37% Civil 41.34%",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the refund policy of BTech fee in IIIT Nagpur?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "B.Tech Fees",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saumya Gairola",
+                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
+                },
+                "answer_text": "You can get a refund of the fee that you have paid for BTech at IIIT Nagpur. For this you have to submit a request to the college to cancel your admission within 15 days from the start of classes. In this case you will get a refund of 75% of tuition fee when the Admission Cancellation Process gets completed. But if you submit this request after 15 days from the start of classes, then you will not get any refund.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which University to choose Chandigarh University, Lovely professional University or Chandigarh group of colleges for B.Tech in CSE.",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
+                },
+                "answer_text": "If you're deciding between these options for B.Tech in CSE, I'd say think about where you'll actually get the most exposure, practical learning, and placement push, and that's where LPU really stands out. In a very real student sense, LPU feels like a complete tech ecosystem rather than just a classroom setup. You get access to modern labs in AI, Machine Learning, Cyber Security, Cloud, Data Science, plus coding competitions, hackathons, and live industry projects happening almost throughout the year. The placement training culture is very active too, with companies like Microsoft, Amazon, Capgemini, Cognizant and many more recruiting,",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
               }
             ]
           }
@@ -1069,7 +1069,7 @@
             ],
             "question_text": "Hi all, I want to discuss about the confusion created by private colleges regarding admissions.",
             "followers": 2,
-            "views": 510,
+            "views": 513,
             "author": {
               "name": "Mohit diwakar",
               "profile_url": "https://www.shiksha.com/userprofile/99303948"
@@ -1090,7 +1090,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 470,
+            "views": 473,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
