@@ -766,46 +766,150 @@
         "stats": {
           "Questions": "61.1k",
           "Discussions": "10",
-          "Active Users": "363",
+          "Active Users": "364",
           "Followers": "201267"
         },
         "questions": [
           {
-            "question_text": "Can you tell me, from which university is your college affiliated for B.Tech CSE",
+            "question_text": "What is the IIT Goa JEE Advanced cutoff for OBC?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "University College",
-                "tag_url": "https://www.shiksha.com/tags/university-college-tdp-2456811"
+                "tag_name": "IIT Goa - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-goa-indian-institute-of-technology-ponda-53787"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Paras chauhan",
-                  "profile_url": "https://www.shiksha.com/userprofile/101286498"
+                  "name": null,
+                  "profile_url": null
                 },
-                "answer_text": "Our College JSS academy of technical education noida for BTech CSE is affiliated to AKTU University Lucknow. An annual exam fees of 7500 is charged per year for the exams",
-                "upvotes": 1,
+                "answer_text": null,
+                "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "32 secs ago"
               }
             ]
           },
           {
-            "question_text": "Is the BTech fees different between specialisations offered by International Institute of Information Technology, Bhubaneswar?",
+            "question_text": "What is the IIT Bhilai JEE Advanced cutoff 2025?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "International Institute of Information Technology, Bhubaneswar",
-                "tag_url": "https://www.shiksha.com/university/international-institute-of-information-technology-bhubaneswar-23733"
+                "tag_name": "IIT Bhilai - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-bhilai-indian-institute-of-technology-53794"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIT Bhilai JEE Advanced cutoff 2025 was published for admission to the various BTech course specialisations for all rounds and categories under the All India category. For the General AI category, the overall cutoff varied between 6384 and 17478 , according to the first and last round. Among all, the hardest for admission course for enrolment was B.Tech in Computer Science and Engineering , with the cutoff ranging from 6384 to 7382 . Students can check out the table below to know the cutoff range for various other categories. Category JEE Advanced cutoff range 2025 General 6384 - 17478 OBC 2591 - 6053 SC 1262 - 3327 ST 676 - 1348 EWS 900 - 2570 PWD 182 - 234",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "39 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIT Bhilai Mechanical cutoff trend for 3-years?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Bhilai - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-bhilai-indian-institute-of-technology-53794"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIT Bhilai Mechanical cutoff was released for admission for all rounds and All India categories based on the JEE Advanced results. For the General AI category, the last round cutoff rank for BTech in Mechanical Engineering was 12428 . In 2024 and 2023, the closing cutoffs were 11505 and 12484 , respectively. After analysing this difference, we can conclude that the cutoff trend for this category has been fluctuating over the years. For details about other categories, click here .",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "59 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIT Bhilai CSE cutoff 2025?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Bhilai - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-bhilai-indian-institute-of-technology-53794"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIT Bhilai JEE Advanced cutoff 2025 was released for admission to the various BTech course specialisations. The cutoff was released for all rounds for the students under the All India quota. For the General AI category, the closing rank was 7382 in the last round. On the other hand, for the OBC AI category, the last round cutoff rank was 2832 . Comparing both these ranks, we can see that the competition for the General AI category is lower in the last round than the OBC AI category. Students can refer to the table below to know the IIT Bhilai BTech cutoff 2025 for the CSE brand for other categories. Category BTech CSE Round 1 (Closing Rank) BTech CSE Last Round (Closing Rank) General 6384 7382 OBC 2591 2832 SC 1262 1343 ST 676 676 (R1) EWS 900 996 PWD 182 234",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIT Jodhpur Mechanical cutoff 2025?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Jodhpur - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-jodhpur-indian-institute-of-technology-32712"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIT Jodhpur JEE Advanced cutoff 2025 for the BTech in Mechanical Engineering specialisations was released for all rounds and various All India categories. For the General AI category, the round 1 closing cutoff was 8980 , which later increased to 9569 in the last round. Students can refer to the list of pointers below to know the cutoff range for IIT Jodhpur BTech cutoff 2025 for all other categories. OBC: 3875 - 4024 SC: 2155 - 2334 ST: 1038 - 1111 EWS: 1467 - 1594",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are admissions open for B.Tech at NIT Srinagar?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Srinagar - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
               }
             ],
             "followers": 0,
@@ -815,218 +919,114 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "International Institute of Information Technology, Bhubaneswar BTech fees remains the same for all the specialisations offered by the institute. There is also no difference in the BTech fees charged from IIIT Bhubaneswar students of different categories. Thus candidates can choose their preferred BTech course at IIIT Bhubaneswar without considering its course fees.",
+                "answer_text": "NIT Srinagar BTech admissionsare currently not open for the academic year 2026. The institute usually opens the NIT Srinagar BTech admissions around the month of June. The admissions are decided based on the JoSAA counseling which takes into account the JEE Mains score of a candidates to allot BTech seats at NIT Srinagar.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I get a refund of the NIT Srinagar BTech fees?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Srinagar - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "NIT Srinagar BTech fees is not refundable under any circumstances. This applies to all fee components except the caution deposit which is refunded upon the completion of the BTech fees without any interest. Candidates can only get refunds if they choose to cancel their admissions during the JoSAA counseling rounds.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is the BTech fees different between branches of NIT Srinagar?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Srinagar - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "No, the BTech fees at NIT Srinagar remains the same across all specialisations. The NIT Srinagar BTech fees structure also remains the same between the same specialisations. All NIT Srinagar fees is either charged on per semester basis or are one-time payments.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the admission criteria for NIT Surathkal BTech?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Surathkal - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-surathkal-national-institute-of-technology-mangalore-24187"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Anangsha Aggarwal",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586356"
+                },
+                "answer_text": "NIT Surathkal BTech admissions are offered on an entrance basis. The institute accepts only those who clear the admission criteria given below: Eligibility - Class 12 with Physics, Mathematics as mandatory subjects + Chemistry/ Biotechnology/ Technical Vocational Subjects/ Biology as one of the subjects + a minimum of 75% aggregate (65% for SC/ ST/ PwD candidates) Selection Process - JEE Mains + JoSAA/ CSAB",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIT Dhanbad JEE Advanced cutoff 2025 for CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "According to the IIT Dhanbad JEE Advanced cutoff 2025 for the General AI category, the overall cutoff range for BTech CSE fell betwen 3348 and 3585 , for the General AI category. To know the IIT Dhanbad BTech cutoff 2025 for CSE branch for other categories, see the table below. Category Round 1 (Closing Rank) Last Round (Closing Rank) General 3348 3585 OBC 1228 1311 SC 686 708 ST 287 318 EWS 445 458 PWD 99 99",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Best private college in low fees",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Ahamed razeen",
-                  "profile_url": "https://www.shiksha.com/userprofile/100765296"
-                },
-                "answer_text": "Srm University in Chennai comparatively low to other college",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements for B.Tech in Lovely Professional University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Ahamed razeen",
-                  "profile_url": "https://www.shiksha.com/userprofile/100765296"
-                },
-                "answer_text": "In many reputed institution B.Tech course offer you a good placements in professional University",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the per semester fee of BTech in IIIT Nagpur?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Fees",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "The fee for the BTech program in IIIT Nagpur is paid per semester. The per semester fee in the first year is INR 1,23,150. The per semester fee is INR 1,14,150 for the 2nd, 3rd and 4th year. The annual tuition fee remains the same over the course of 4 years at INR 1,98,000.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements for B.Tech at LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Aston Martin",
-                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
-                },
-                "answer_text": "Dear reader, B.Tech at LPU is a great choice. Lovely Professional University (LPU) maintains close relationships with more than 2,000 recruiters, including multinational behemoths like Google, Microsoft, and Amazon, which helps it consistently obtain excellent B.Tech placements. Through extensive career advancement training and specific industry-collaborative programs, LPU makes sure that its engineering graduates are in great demand, often landing record-breaking offers and a variety of opportunities in leading Fortune 500 organizations. For more information kindly contact their concerned department. I hope this information helps.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "if i secure 65% in 10+2 and 71 percentile in jee mains .caan i get addmisin in btech",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Aston Martin",
-                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
-                },
-                "answer_text": "Dear reader, B.Tech at LPU is a great choice. Yes, you stand a good probability of being accepted into Lovely Professional University's B.Tech program. Competitive scores like yours and steady academic performance are valued at LPU. You can gain admission to prestigious engineering specializations, cutting-edge research facilities, and fantastic international placement possibilities by fulfilling the eligibility requirements and making the most of your JEE Main percentile. For more information kindly contact their concerned department.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the placement rate recorded during IIT BHU BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Indian Institute of Technology, BHU, Varanasi",
-                "tag_url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Dhanya Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
-                },
-                "answer_text": "As per external sources, IIT BHU placement rate recorded for some of the top Engineering branch during 2025 placements is mentioned below: Branch Placement Rate 2025 CSE 92.3% ECE 81.17% EEE 69.54% Chemical 59.17% Mechanical 67.37% Civil 41.34%",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the refund policy of BTech fee in IIIT Nagpur?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Fees",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-fees-tdp-166154"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "You can get a refund of the fee that you have paid for BTech at IIIT Nagpur. For this you have to submit a request to the college to cancel your admission within 15 days from the start of classes. In this case you will get a refund of 75% of tuition fee when the Admission Cancellation Process gets completed. But if you submit this request after 15 days from the start of classes, then you will not get any refund.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which University to choose Chandigarh University, Lovely professional University or Chandigarh group of colleges for B.Tech in CSE.",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vishnu harry",
-                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
-                },
-                "answer_text": "If you're deciding between these options for B.Tech in CSE, I'd say think about where you'll actually get the most exposure, practical learning, and placement push, and that's where LPU really stands out. In a very real student sense, LPU feels like a complete tech ecosystem rather than just a classroom setup. You get access to modern labs in AI, Machine Learning, Cyber Security, Cloud, Data Science, plus coding competitions, hackathons, and live industry projects happening almost throughout the year. The placement training culture is very active too, with companies like Microsoft, Amazon, Capgemini, Cognizant and many more recruiting,",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 hours ago"
               }
             ]
           }
