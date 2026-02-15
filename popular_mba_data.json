@@ -766,10 +766,36 @@
         "stats": {
           "Questions": "61.2k",
           "Discussions": "10",
-          "Active Users": "360",
+          "Active Users": "362",
           "Followers": "201267"
         },
         "questions": [
+          {
+            "question_text": "How are the placements of LPU for B.Tech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "B.Tech CSE placements at Lovely Professional University are generally good and improving . Many students from the CSE batch receive job offers from top tech companies, with the the highest packages reaching around INR 64 LPA in recent cycles. For strong performers, average packages for the top 10–25% typically range from ~₹10–15 LPA , while overall averages often fall around ₹7–8 LPA . Recruiters include big names in IT and product roles. Placement rates for CSE are usually high (often above 80–90%), but individual outcomes depend on skills, projects, academic performance, and interview preparation .",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
           {
             "question_text": "Which is the best college for BTech in Dehradun?",
             "tags": [
@@ -786,247 +812,221 @@
             "answers": [
               {
                 "author": {
-                  "name": "Chaitanya Jain",
-                  "profile_url": "https://www.shiksha.com/userprofile/101514986"
+                  "name": "Arpita Jaiswal",
+                  "profile_url": "https://www.shiksha.com/userprofile/101474286"
                 },
-                "answer_text": "DIT UNIVERSITY, DEHRADUN Although fee is quite high but the facilities they are providing are upto mark also campus life is one of the best in dehradun and I think the best campus in dehradun also placements are great although it is totally depends on your hardwork",
-                "upvotes": 1,
+                "answer_text": "UPES (University of petroleum and energy studies), This college has Ranked among top Engineering colleges nationally. Fees is around 10-20 lankh, here placement rates are too high.",
+                "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "Which college is best to pursue B.Tech CSE amongst MSRIT, BMS and LPU?",
+            "question_text": "Which is a better college to pursue B.Tech, LPU or Jaypee, Noida?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "Ramaiah Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/ramaiah-institute-of-technology-bangalore-474"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 1,
+            "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "vaani",
-                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
                 },
-                "answer_text": "Lovely Professional University (LPU) is an excellent choice for B.Tech in Computer Science Engineering (CSE) and here's why it stands out when comparing options. Lovely Professional University offers a well-structured and industry-oriented CSE curriculum that is regularly updated to match the rapid changes in the tech world. The course goes beyond core programming and theory to include emerging areas like artificial intelligence, machine learning, data science, cloud computing, cybersecurity, and Internet of Things, giving you a future-ready skill set. The faculty at LPU combines academic proficiency with practical industry experi",
+                "answer_text": "For B.Tech, Jaypee Institute of Information Technology (JIIT Noida) is generally considered better than Lovely Professional University (LPU) in terms of academic reputation, coding culture, peer quality, and average placements, especially for CSE/IT branches. Jaypee has a stronger technical environment and better overall ROI, while LPU offers bigger campus infrastructure and more diverse exposure. If you're focused on core engineering quality and placements, Jaypee Noida is usually the better choice.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is a better college to pursue B.Tech, autonomous or JNTU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "An autonomous college is usually a better choice for B.Tech because it has an updated syllabus, flexible exams, and often better placement opportunities. JNTU-affiliated colleges follow a fixed university syllabus and stricter evaluation system. If the autonomous college has good placements, it is generally the better option.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which college is better among LPU and GITAM University?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "GITAM (Deemed to be University), Visakhapatnam",
+                "tag_url": "https://www.shiksha.com/university/gitam-deemed-to-be-university-visakhapatnam-24065"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "Choosing between Lovely Professional University (LPU) and GITAM Deemed to be University (GITAM) depends on your goals. LPU offers a bigger campus and more placement opportunities, while GITAM is known for a better academic environment and steady placements. If you want wider exposure, choose LPU; if you prefer focused academics, choose GITAM.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is the best college to pursue B.Tech among KIIT University and LPU in terms of placement and packages?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "KIIT - Kalinga Institute of Industrial Technology",
+                "tag_url": "https://www.shiksha.com/university/kiit-kalinga-institute-of-industrial-technology-bhubaneswar-37926"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "Between KIIT University and Lovely Professional University, KIIT is generally better for B.Tech in terms of more consistent placements and stable average packages, especially for CSE/IT. LPU offers some very high packages but has a larger intake, so competition is higher and averages vary more.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better among LPU, Chandigarh University and Chitkara University for B.Tech in CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "In my opinion, for B.Tech in CSE, Chitkara University is slightly better. The placements are generally stronger, the industry connections are good, and the coding culture is more active and focused. Lovely Professional University (LPU) has a very large campus and offers many opportunities, but the competition is quite high because of the large number of students. So overall, I would prefer Chitkara University for CSE.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which college is better among LPU and GITAM University to pursue BE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "GITAM (Deemed to be University), Visakhapatnam",
+                "tag_url": "https://www.shiksha.com/university/gitam-deemed-to-be-university-visakhapatnam-24065"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "If you are choosing between Lovely Professional University (LPU) and GITAM University for BE, then overall GITAM University is generally considered better in terms of academic reputation, campus environment, and relatively consistent placement quality, especially for core engineering branches. GITAM has a stronger brand value in South India and better industry exposure in certain streams.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better, LPU or BHU for B.Tech?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "For B.Tech, Banaras Hindu University (BHU) is generally better than Lovely Professional University (LPU) because it has a stronger academic reputation, higher brand value, and much lower fees since it is a central government university.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one is better for B.Tech among SASTRA University and LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 2,
+            "answers": [
+              {
+                "author": {
+                  "name": "Om Khurd",
+                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                },
+                "answer_text": "SASTRA University and Lovely Professional University (LPU) for B.Tech",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Goa BTech CSE cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Goa - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-goa-indian-institute-of-technology-ponda-53787"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIT Goa BTech cutoff 2025 was concluded with the release of the final rounds of cutoff for various categories belonging to the All India quota. For the General AI category, the round 1 cutoff was 5626, which later increased to 6242 in the last round. For the OBC AI quota, the cutoff ranged between 2101 and 2247 , according to the first and last round, respectively. Students can refer to the table below to the know the round 1 and last round cutoff rank for various other All India category. Category Round 1 (Closing Rank) Last Round (Closing Rank) SC 1103 1266 ST 494 494 (R1) EWS 847 847 (R1)",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "21 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get INR 1 crore package after doing BTech CSE in NIT Durgapur?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "National Institute of Technology, Durgapur (NIT D)",
-                "tag_url": "https://www.shiksha.com/university/nit-durgapur-national-institute-of-technology-54019"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "According to the placement record, the highest package that was offered to BTech student in NIT Durgapur in 2025 was INR 80 LPA. So it can be said that it is highly unlikely to get a package of INR 1 crore in campus placement of NIT Durgapur. Though difficult, it is not impossible and a stellar academic performance and overall records can make it possible and break previous record.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "21 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "if i secure 65% in 10+2 and 71 percentile in jee mains .caan i get addmisin in btech",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
-                },
-                "answer_text": "Yes, with 65% in 10+2 and 71 percentile in JEE Main, you are eligible to apply for B.Tech at LPU. The basic requirement is around 60% with Physics and Mathematics in Class 12, which you meet. Your JEE score can be used for admission, though LPUNEST may be suggested for scholarships. Admission also depends on seat availability and branch preference. Applying early improves your chances.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "23 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements for B.Tech at LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
-                },
-                "answer_text": "Placements for B.Tech at LPU are generally considered good, especially in branches like CSE, IT, and ECE. Many companies visit the campus every year, including IT firms, core engineering companies, and multinational recruiters. Students receive placement training, mock interviews, and internship support to improve employability. Average packages are moderate, while higher packages go to students with strong technical skills and project experience. Overall, placement opportunities are strong, but outcomes depend on individual preparation and performance.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "23 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is it necessary to appear for LPUNEST in order to take admission in LPU for B.Tech?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
-                },
-                "answer_text": "It is not always necessary to appear for LPUNEST to get admission in B.Tech at LPU. With 71 marks in JEE Main and 85–90% in Class 12, you are eligible to apply through your JEE score and academic performance. However, appearing for LPUNEST can help you qualify for scholarships and may improve fee benefits. Admission policies can vary slightly by branch and year, so checking the current guidelines is advisable.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "23 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Goa JEE Advanced cutoff for OBC?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Goa - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-goa-indian-institute-of-technology-ponda-53787"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIT Goa JEE Advanced cutoff 2025 was released for admission to the various BTech course specialisations. The cutoff was published for multiple categories belonging to the All India categories. For the OBC AI category, the overall cutoff ranged between 2101 and 4688 , according to the first and last round closing cutoffs. Considering the last round ranks, the most and least competitive specialisations were B.Tech. in Computer Science and Engineering and B.Tech. in Mechanical Engineering , respectively. Candidates can refer to the table below to know the OBC AI quota cutoff for the initial and last round. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Mechanical Engineering 4230 4688 B.Tech. in Computer Science and Engineering 2101 2247 B.Tech. in Electrical Engineering 3588 3680 B.Tech. in Mathematics and Computing Engineering 2904 3060",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Bhilai JEE Advanced cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Bhilai - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhilai-indian-institute-of-technology-53794"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIT Bhilai JEE Advanced cutoff 2025 was published for admission to the various BTech course specialisations for all rounds and categories under the All India category. For the General AI category, the overall cutoff varied between 6384 and 17478 , according to the first and last round. Among all, the hardest for admission course for enrolment was B.Tech in Computer Science and Engineering , with the cutoff ranging from 6384 to 7382 . Students can check out the table below to know the cutoff range for various other categories. Category JEE Advanced cutoff range 2025 General 6384 - 17478 OBC 2591 - 6053 SC 1262 - 3327 ST 676 - 1348 EWS 900 - 2570 PWD 182 - 234",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Bhilai Mechanical cutoff trend for 3-years?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Bhilai - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhilai-indian-institute-of-technology-53794"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIT Bhilai Mechanical cutoff was released for admission for all rounds and All India categories based on the JEE Advanced results. For the General AI category, the last round cutoff rank for BTech in Mechanical Engineering was 12428 . In 2024 and 2023, the closing cutoffs were 11505 and 12484 , respectively. After analysing this difference, we can conclude that the cutoff trend for this category has been fluctuating over the years. For details about other categories, click here .",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
               }
             ]
           }
@@ -1132,7 +1132,7 @@
             ],
             "question_text": "Ask anything to IITians and NITians!",
             "followers": 166,
-            "views": "21.6000",
+            "views": "21.7000",
             "author": {
               "name": "RISHAV Kumar",
               "profile_url": "https://www.shiksha.com/userprofile/95309914"
@@ -1174,7 +1174,7 @@
             ],
             "question_text": "Covid Pandemic is probably one of the good things to have happened to Indian Higher Education.",
             "followers": 22,
-            "views": "19.3000",
+            "views": "19.4000",
             "author": {
               "name": "Payal Jajodia",
               "profile_url": "https://www.shiksha.com/userprofile/7284518"
