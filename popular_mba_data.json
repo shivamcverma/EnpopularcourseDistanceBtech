@@ -762,34 +762,34 @@
     "QAN": {
       "QA": {
         "tag_name": "B.Tech",
-        "description": "Get insights from 61.2k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
+        "description": "Get insights from 61.3k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
         "stats": {
-          "Questions": "61.2k",
+          "Questions": "61.3k",
           "Discussions": "10",
-          "Active Users": "364",
+          "Active Users": "365",
           "Followers": "201267"
         },
         "questions": [
           {
-            "question_text": "Is MNIT Jaipur best college for BTech in India?",
+            "question_text": "What is the IIIT Raichur JEE Main cutoff for OBC category?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "MNIT Jaipur - Malaviya National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/mnit-jaipur-malaviya-national-institute-of-technology-24372"
+                "tag_name": "IIIT Raichur - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-raichur-indian-institute-of-information-technology-65337"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shruti Manchanda",
-                  "profile_url": "https://www.shiksha.com/userprofile/101329054"
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
                 },
-                "answer_text": "MNIT Jaipur is one of the best colleges especially for the BTech course. It is known for its academic standards, faculty, and placement record. The college also provides good placement offers. It is one of the best, but whether it is \"the best\" depends upon individual preferences and professional goals.",
+                "answer_text": "IIIT Raichur JEE Main cutoff 2025 for the OBC AI quota ranged from 12624 to 89745 , according to the first and last round closing ranks. As per the last round closing cutoff, the most and least competitive BTech specialisations were BTech in Computer Science and Engineering and BTech in Mathematics and Computing , respectively. Candidates can check the table below for the first and final round cutoffs for this category. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Computer Science and Engineering 12624 79652 B.Tech. in Artificial Intelligence and Data Science 13633 85583 B.Tech. in Mathematics and Computing 14571 89745",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
@@ -797,15 +797,15 @@
             ]
           },
           {
-            "question_text": "What is the IIIT Nagpur CSE cutoff 2025?",
+            "question_text": "What is the IIIT Raichur CSE cutoff ?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "IIIT Nagpur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-nagpur-indian-institute-of-information-technology-53876"
+                "tag_name": "IIIT Raichur - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-raichur-indian-institute-of-information-technology-65337"
               }
             ],
             "followers": 0,
@@ -815,171 +815,15 @@
                   "name": "Neerja Rohatgi",
                   "profile_url": "https://www.shiksha.com/userprofile/97214830"
                 },
-                "answer_text": "IIIT Nagpur CSE cutoff 2025 was released for admission to the BTech CSE course for various All India categories. For the General AI category, the first and last round closing cutoff 25974 and 35506 . Students can refer to the table below to know the first and last rounds for all other categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) OBC 9982 44491 SC 6151 183023 ST 3361 308901 PWD 871 520314 EWS 4162 39664",
+                "answer_text": "IIIT Raichur cutoff 2025 was published for admission to various All India categories. For the BTech CSE course, the General AI category faced an overall cutoff varying between 31744 and 65543 . On the other hand, for the OBC AI quota, the first and last round closing ranks were 12624 and 79652 , respectively. See the list of pointers below to know the closing cutoff range for other categories. SC: 7650 to 226178 ST: 3523 to 347677 EWS: 4930 to 77997 PWD: 737 to 1218",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the cutoff for IIIT Manipur 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Manipur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-manipur-indian-institute-of-information-technology-imphal-53865"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Manipur cutoff 2025 was released for admission to various BTech course specialisations for All India category students. For the General AI category, the overall cutoff ranged from 48433 to 207984 . Considering the last round, the hardest BTech specialisation was BTech in Computer Science and Engineering (Artificial Intelligence and Data Science) . For more information, candidates can click here .",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIIT Manipur CSE cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Manipur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-manipur-indian-institute-of-information-technology-imphal-53865"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Manipur CSE cutoff 2025 was concluded with the release of the final round of cutoffs for various categories under the All India quota. For the General AI category, the overall cutoff ranged from 48986 to 119721 , according to the first and last round closing cutoff. Students can refer to the table below to know the first and last rounds for other categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) OBC 16048 150821 SC 9343 308203 ST 4642 672155 EWS 7313 153654",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better college to pursue B.Tech, LPU or Jaypee, Noida?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "B.Tech at Lovely Professional University is a popular choice among engineering aspirants in India due to its modern curriculum, industry exposure, and strong infrastructure. The programme offers specialisations such as Computer Science, Mechanical, Civil, Electronics, Artificial Intelligence, and more. Students benefit from well-equipped labs, experienced faculty, internships, live projects, and global exchange opportunities. The university emphasizes skill development, coding practice, and research activities. Regular workshops, hackathons, and technical events enhance practical knowledge. LPU also provides dedicated placement trainin",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is 13,000 a good rank in JEE Main for NIT Nagaland?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Nagaland - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-nagaland-national-institute-of-technology-dimapur-39201"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "Yes,  13K is a good rank in JEE Main for admission at NIT Nagaland , if you belong to the General AI category. This category had the first and last round cutoff ranging from 32418 to 111764 in the last round. Hence, admission with a 13K rank is possible for the General AI category candidates; other categories will have different qualifying cutoffs.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the best college to pursue B.Tech among KIIT University and LPU in terms of placement and packages?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "KIIT - Kalinga Institute of Industrial Technology",
-                "tag_url": "https://www.shiksha.com/university/kiit-kalinga-institute-of-industrial-technology-bhubaneswar-37926"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "B.Tech CSE placements at Lovely Professional University are considered strong compared to many private universities in India. The university invites numerous national and multinational companies every year, offering roles in software development, data analytics, cybersecurity, AI, and consulting. Top recruiters include IT giants, startups, and product-based firms. Students with good coding skills, projects, and internships often secure higher packages. The average package is moderate, while top performers can receive impressive offers. Placement support, training programs, mock interviews, and industry-oriented curriculum help students",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the NIT Nagaland JEE Main cutoff for CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Nagaland - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-nagaland-national-institute-of-technology-dimapur-39201"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "NIT Nagaland JEE Main cutoff 2025 for the CSE course was released for admission for all rounds and categories under the All India quota. For the General AI category, the cutoff in the first round was 32418, and in the last round, it was 56055 . On the other hand, for the OBC AI quota, the cutoff in the first and last rounds ranged from 10142 to 60217 . Students can see the table below to know the first and last round data for all other AI categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) SC 4187 129878 EWS 4946 61897",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Sir, does CGPA matters for best placements in LPU?",
+            "question_text": "How are the placements for B.Tech at LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -994,18 +838,70 @@
             "answers": [
               {
                 "author": {
-                  "name": "Arshia Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
+                  "name": "Think with V",
+                  "profile_url": "https://www.shiksha.com/userprofile/101549228"
                 },
-                "answer_text": "Yes sir, CGPA does matter for placements at LPU , but it is not everything. Many companies keep a minimum CGPA cutoff (often around 7-8) just for eligibility and shortlisting. If your CGPA is higher, it definitely helps in getting shortlisted for better companies. However, for the best placements , companies focus more on: Technical skills (especially for CSE/IT) Projects and internships Problem-solving ability Communication and interview performance",
+                "answer_text": "When you think about placements for B.Tech at Lovely Professional University, it helps to picture an organized system where the university's placement cell works through your final year to connect you with companies looking to hire fresh engineering graduates, and this process starts well before the final semester with training and preparation so that you are ready when recruiters arrive. In a typical year, recruiters from various sectors such as software and IT services, core engineering firms, consulting companies, analytics and finance firms, and even startups visit the campus to interview students for roles in development, tes",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "8 hours ago"
+                "posted_time": "4 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is LPU a good university to do B.Tech in ECE?",
+            "question_text": "What is the JEE Main cutoff rank for IIIT Raichur?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Raichur - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-raichur-indian-institute-of-information-technology-65337"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Raichur JEE Main cutoff 2025 was published for admission to various BTech courses for various All India categories. Admissions were closed for the General AI category at a rank of 74623 . For the OBC AI quota, the last round closing cutoff was 89745 . The cutoff was also released for the SC, ST, EWS and PWD categories, which can be accessed by clicking here .",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIITDM Jabalpur JEE Main cutoff for CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-design-and-manufacturing-kurnool-53875"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIITDM Jabalpur BTech cutoff 2025 was released for admission to the BTech CSE course for various categories, like the General, OBC, SC, etc., under the All India quota. For the General AI category, admissions ranged from 647 in the first round to 675 in the last round. For the OBC AI category, the range varied between 13297 and 22398 . Refer to the pointers below to know the cutoff range for other categories. SC : 3312 to 96416 ST: 1619 to 149345 EWS : 2008 to 18856 PWD:  647 to 675",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better, LPU or BHU for B.Tech?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -1020,13 +916,117 @@
             "answers": [
               {
                 "author": {
-                  "name": "Arshia Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "LPU for B.Tech in ECE is a good option, but it's important to keep expectations realistic. Academically, the curriculum covers the standard ECE subjects like analog/digital electronics, signals & systems, communication systems, VLSI basics, and embedded systems . Labs and infrastructure are decent for practical exposure, but how much you actually learn depends a lot on your own effort. When it comes to placements, most ECE students at LPU either: Get placed in IT/service-based companies , or Move into software roles after learning coding alongside ECE Core electronics placements (like semiconductor or hardcore telecom roles) ar",
+                "answer_text": "The B.Tech in Computer Science and Engineering at Lovely Professional University focuses on building strong foundations in programming, data structures, artificial intelligence, cloud computing, and cybersecurity. The programme combines classroom learning with practical labs, live projects, internships, and industry certifications. Students gain exposure to modern tools, coding platforms, and research opportunities guided by experienced faculty. Regular workshops, hackathons, and collaborations with tech companies enhance real-world skills. The curriculum is updated to match global technology trends, while dedicated placement training,",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better among LPU, Chandigarh University and Chitkara University for B.Tech in CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "LPU provides a premium B.Tech programme in Computer Science and Engineering CSE which receives 42 out of 50 from students because it delivers practical training through its complete AI ML cybersecurity data Science and full-stack development programs and its modern laboratories and worldwide certification from Microsoft and Google and IBM. The university achieves outstanding placement results because 80 to 90 percent of students with 7 plus CGPA who qualify for employment receive job offers from companies such as Google and Amazon and TCS and Wipro and Cognizant. The 2025-26 academic year will feature CSE programs which offer their the",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIIT Jabalpur cutoff category wise for JEE Main?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT",
+                "tag_url": "https://www.shiksha.com/tags/iiit-tdp-384426"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Jabalpur JEE Main cutoff 2025 was released for admission to the BTech course specialisations for various All India categories. For the General AI category, the overall cutoff ranged from 13297 to 64090 . According to the last round cutoff, the most competitive BTech branch was BTech CSE. Students can refer to the table below to know the overall cutoff for various other categories. Category IIIT Jablapur JEE Main cutoff 2025 OBC 4946 - 81973 SC 3312 - 189115 ST 1619 - 299702 EWS 2008 -  77321 PWD 647 - 529726",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the total tuition fee of BTech at University of Hyderabad?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "UoH - University of Hyderabad",
+                "tag_url": "https://www.shiksha.com/university/uoh-university-of-hyderabad-23069"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Manori Datta",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589568"
+                },
+                "answer_text": "University of Hyderabad offers a BTech programme at the UG level. It is offered in full-time mode and is approved by the AICTE. The total tuition fee of BTech at Hyderabad University ranges around INR 2 lakh.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "8 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the cutoff rank for BTech in Chemical Engineering at NIT Hamirpur?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "National Institute of Technology, NIT H",
+                "tag_url": "https://www.shiksha.com/university/nit-hamirpur-national-institute-of-technology-24395"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shruti Manchanda",
+                  "profile_url": "https://www.shiksha.com/userprofile/101329054"
+                },
+                "answer_text": "The round 1 closing rank for BTech in Chemical Engineering at NIT Hamirpur is 35719. The last round closing rank for BTech in Chemical Engineering at NIT Hamirpur is 48241. Cutoff ranks for all the courses are different from each other.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "9 hours ago"
               }
             ]
           }
