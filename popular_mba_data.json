@@ -771,59 +771,7 @@
         },
         "questions": [
           {
-            "question_text": "Which college is better among LPU and GITAM University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "GITAM (Deemed to be University), Visakhapatnam",
-                "tag_url": "https://www.shiksha.com/university/gitam-deemed-to-be-university-visakhapatnam-24065"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Arshia Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
-                },
-                "answer_text": "Lovely Professional University stands out due to its large campus infrastructure, wide range of programmes across multiple streams, strong industry tie-ups, and a broad placement network with national and international recruiters. The university also offers diverse student exposure through internships, live projects, global collaborations, and active campus life. GITAM University is particularly recognised in South India for engineering, management, and pharmacy programmes. It has good academic standards and decent placement opportunities, especially in core and regional companies. Overall, while both universities are good, LPU has an ed",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Btech in NIT or BBa MBA integrated in IIM Indore",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIM Indore - Indian Institute of Management",
-                "tag_url": "https://www.shiksha.com/college/iim-indore-indian-institute-of-management-29623"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Hritik Srivastava",
-                  "profile_url": "https://www.shiksha.com/userprofile/102083180"
-                },
-                "answer_text": "Always go for B.Tech at NITs as it is more conventional and has better job opportunities and scope in comparison to that of dual degree from IIMs as they don't have that big alumni network and also these things are being introduced. so these days any time go for B.Tech from NiTs over any IIM dual degree but yes later on after 5-10 years depending upon scenarios and market situation this can be changed.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU good for pursuing B.Tech in ECE? What about the placements?",
+            "question_text": "What is the fee for BTech at LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -838,18 +786,70 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "Lovely Professional University offers B.Tech in ECE with proper labs, electronics projects, and industry-oriented curriculum covering communication, VLSI, embedded systems, and IoT. Placements are decent but generally moderate compared to CSE; some students get core electronics roles, while many move into IT, software, or related domains based on skills. The centralized placement system provides good opportunity volume, but strong outcomes depend on internships, practical projects, and technical preparation. If you are proactive, ECE at LPU can lead to stable career options.",
+                "answer_text": "For B.Tech at Lovely Professional University , the total course fee for the 4-year programme typically ranges from about ₹11.6 Lacs to ₹16.4 lakhs for tuition and academic charges. This means you'd pay roughly ₹2.8 Lacs to ₹4.1 Lacs per year depending on the specialisation you choose. Fees for popular streams like CSE or AI/ML tend to be on the higher side within this band. Hostel, mess and other charges are separate and can add to the overall cost. Scholarships based on merit (like LPUNEST scores) can significantly reduce your payable fee.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What will be the fee for B.Tech (CSE) in LPU? I have qualified LPU NEST.",
+            "question_text": "Which is good for B.Tech in CSE - Amity Noida or LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Amity University, Noida",
+                "tag_url": "https://www.shiksha.com/university/amity-university-noida-41334"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                },
+                "answer_text": "For B.Tech in CSE, Lovely Professional University generally provides a larger placement ecosystem, wider specialisation options such as AI, ML, data Science and cybersecurity, and a higher overall recruiter volume compared to Amity University Noida; LPU's scale allows more multinational company participation, structured placement training from early semesters, strong coding culture through hackathons and competitions, and broader campus exposure, while Amity Noida has brand recognition in NCR but comparatively narrower placement volume in CSE; if the focus is placement diversity and industry-driven curriculum within a private universit",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one is better CGC Landran or LPU for B.Tech in CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                },
+                "answer_text": "Between Lovely Professional University and Chandigarh Group of Colleges Landran for B.Tech CSE, LPU generally offers a broader ecosystem in terms of campus scale, recruiter volume, specialization options (AI, ML, data science, cybersecurity, cloud), international tie-ups, hackathons, startup incubation, and overall placement exposure; CGC Landran is more compact and may feel more controlled in batch size, but LPU attracts a significantly larger number of multinational recruiters and provides structured placement training from early semesters, so for CSE specifically—where exposure, peer competition, and industry linkage matter—LPU",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which university is better among Lovely Professional University & Guru Jambeshwar University for B.Tech?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -864,44 +864,44 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "For B.Tech CSE at Lovely Professional University, the standard tuition fee is generally around ₹1.6–1.8 Lacs per semester, but since you have qualified LPUNEST, your actual fee depends on the scholarship slab you secured. Based on your LPUNEST score and 12th marks, the fee can reduce significantly (sometimes 20%–50% or more). To know the exact payable amount, you need to check your scholarship category in the admission portal, as the final fee is calculated after applying the concession.",
+                "answer_text": "Lovely Professional University offers a comprehensive B.Tech program across specializations like Computer Science, Mechanical, Civil, Electrical, Electronics, Biotechnology, Aerospace and more. The curriculum is industry-oriented and regularly updated to include emerging technologies such as Artificial Intelligence, Data Science, Cyber Security and Robotics. Students gain practical exposure through labs, internships, live projects and industry collaborations. Admission is generally based on LPUNEST or national-level exams like JEE Main . LPU also provides scholarships based on academic performance and entrance scores. With modern infras",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "4 hours ago"
               }
             ]
           },
           {
-            "question_text": "Does LPU provide B.Tech in mechanical engineering?",
+            "question_text": "Which institute is better for B.Tech in terms of placement: Lovely Professional University or Anna University?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "Anna University",
+                "tag_url": "https://www.shiksha.com/university/anna-university-chennai-3084"
               }
             ],
-            "followers": 3,
+            "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "Yes, Lovely Professional University offers B.Tech in Mechanical Engineering with industry-oriented curriculum, workshops, and lab facilities. The programme covers core subjects like thermodynamics, manufacturing, design, and robotics, along with internship and placement support through the centralized placement cell.",
+                "answer_text": "Lovely Professional University B.Tech placements are strong and improving . In the latest placement cycle, the the highest salary package reached ₹2.5 crore per annum , while B.Tech CSE students saw top offers around ₹64 LPA and the top 10 % average was about ₹15 LPA . Over 2,200+ recruiters participated, including big tech and engineering firms. Companies like Google, Microsoft, Amazon, TCS, Accenture, Cognizant regularly hire graduates. The dedicated placement cell also provides training, internships and interview support to help students succeed in campus drives. Overall, B.Tech placements at LPU are competitive with many good op",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "4 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is LPU good to pursue B.Tech? How are its placements?",
+            "question_text": "Which one is better for B.Tech among SASTRA University and LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -916,70 +916,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "Lovely Professional University is a practical option for B.Tech if you want strong infrastructure, large campus exposure, and a centralized placement system. Placements are especially stronger in CSE and IT-related branches, with many companies visiting for mass hiring and some higher packages for top performers. Average packages are moderate, and final outcomes depend heavily on your skills, internships, coding ability, and consistency. If you actively use the opportunities available, placement results can be solid; passive approach may limit growth.",
+                "answer_text": "Dear reader, Taking admission at LPU is a great choice. With its multicultural campus and cutting-edge research facilities, LPU provides a distinctively dynamic and globally-focused B.Tech experience. Students are given extraordinary exposure to contemporary technology developments through its industry-driven curriculum and wide-ranging network of corporate partners. LPU continuously educates its graduates for prosperous jobs in esteemed international corporations by emphasizing practical innovation. For more information kindly contact their concerned department. I hope this information helps.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "5 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is it a good option to pursue B.Tech in aerospace engineering from LPU? Can you suggest some other better colleges?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
-                },
-                "answer_text": "B.Tech Aerospace at Lovely Professional University is a decent option if you want good infrastructure and a stable private university environment, but core aerospace placements are limited and depend heavily on your skills and internships; if top government institutes aren't an option, LPU is a practical private choice, just be ready to work hard for core opportunities.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Sir, does CGPA matters for best placements in LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
-                },
-                "answer_text": "Yes, CGPA does matter at Lovely Professional University, but it is not the only factor. Most companies set an eligibility cutoff (often around 6.5–7.5 CGPA depending on the company), so if your CGPA is below that, you may not be allowed to sit for certain placements. However, for better packages, skills in coding, projects, internships, communication, and interview performance usually matter more than just grades. A safe strategy is to maintain at least 7.5+ CGPA while strongly focusing on practical skills to maximize opportunities.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better university to pursue B.Tech in CSE among LPU and Amity University?",
+            "question_text": "How are the placements for B.Tech in Lovely Professional University?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -994,18 +942,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "For B.Tech CSE, Lovely Professional University generally offers a larger placement ecosystem and wider recruiter base compared to Amity University, mainly because of its centralized placement model and high company visit volume. LPU has strong mass hiring plus decent mid-level packages in CSE, and the competitive coding environment is active due to large intake. Amity has good infrastructure and brand presence in metro cities, but placement outcomes can vary significantly by campus. If your priority is maximum placement exposure and opportunity volume, LPU is usually the more practical choice, provided you stay consistent with skills a",
+                "answer_text": "Dear reader, B.Tech at LPU is a great choice. With a stellar reputation of placing B.Tech students, LPU continues to draw Fortune 500 businesses and elite international technological titans. The institution makes sure that students are incredibly prepared for high-impact careers through its industry-immersion programs and aggressive business resource center. For engineering graduates in all areas, this dedication to quality results in a wide range of esteemed job options. For more information kindly contact their concerned department. I hope this information helps.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "5 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is my decision right of taking admission in LPU for B.Tech CSE? I got 80% in 12th CBSE board.",
+            "question_text": "Which is a better college to pursue B.Tech, JNTU or LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -1020,13 +968,65 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ananya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/37919823"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "With 80% in CBSE, taking admission in B.Tech CSE at Lovely Professional University is a practical decision if your goal is placements and exposure rather than only brand name. LPU's CSE has strong intake, coding environment, regular company visits, and centralized placement support, so opportunities are available at scale; however, outcomes depend heavily on your skills in DSA, development, internships, and consistency. If you are ready to compete in a large peer group and actively build projects from first year, the decision can work well for you.",
+                "answer_text": "Dear reader, As a LPU student this is my perspective towards asked question. For B.Tech students, LPU provides a vibrant, internationally oriented environment with cutting-edge facilities and a curriculum that is in line with industry standards. Unmatched exposure and networking opportunities are offered by its multicultural campus and wide-ranging corporate relationships. By emphasizing creativity and hands-on learning, LPU continuously equips its graduates to succeed in esteemed positions in the international technology industry. For more information kindly contact their concerned department. I hope this information helps.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is a better college to pursue B.Tech, LPU or Jaypee, Noida?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, B.Tech at LPU is a great choice. With its innovative technical infrastructure and vibrant, multicultural campus, LPU is a great option for B.Tech students. Students are exposed to international business standards in a way that is unmatched because of the curriculum's thorough integration with industry requirements. With an emphasis on professional networking and holistic development, LPU regularly equips graduates to land high-profile positions. For more information kindly contact thier concerned department. I hope this information helps.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is LPU good for B.Tech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, Btech at LPU is a great choice. With its cutting-edge computing labs and industry-driven curriculum, LPU is a great option for B.Tech CSE students. Students are guaranteed to be extremely competitive because to the university's solid corporate ties and emphasis on cutting-edge technologies like artificial intelligence and cloud computing. LPU successfully develops engineers who are prepared for the future thanks to its dynamic campus and excellent placement record. For more information kindly contact their concerned department. I hope this information helps.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
               }
             ]
           }
@@ -1069,7 +1069,7 @@
             ],
             "question_text": "Hi all, I want to discuss about the confusion created by private colleges regarding admissions.",
             "followers": 2,
-            "views": 517,
+            "views": 518,
             "author": {
               "name": "Mohit diwakar",
               "profile_url": "https://www.shiksha.com/userprofile/99303948"
@@ -1090,7 +1090,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 480,
+            "views": 487,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
