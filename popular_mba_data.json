@@ -766,10 +766,218 @@
         "stats": {
           "Questions": "61.3k",
           "Discussions": "10",
-          "Active Users": "366",
+          "Active Users": "365",
           "Followers": "201267"
         },
         "questions": [
+          {
+            "question_text": "How is the placement of B.Tech CSE at LPU? What is the minimum, average and maximum salary package offered for the same?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Arshia Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
+                },
+                "answer_text": "Placements for B.Tech Computer Science & Engineering (CSE) at LPU are generally good, with a large number of recruiters participating every year and a high placement rate for eligible and well-prepared students. Recruiters include IT services, product companies, core tech firms, and startups. Students with strong skills, projects, and internships tend to get the best offers. Salary Packages (Recent Batch) Minimum/Typical entry-level offers: Many students receive offers in the range of around ₹4–6 LPA or higher , depending on skills and company profiles (varies widely). Average package: Around ₹10.23 LPA for the to",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How is the placements of B.Tech Mechanical Engineering at LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Arshia Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
+                },
+                "answer_text": "The placements for B.Tech Mechanical Engineering at Lovely Professional University are considered good, especially for students who focus on skills and practical exposure. LPU attracts recruiters from core mechanical sectors such as manufacturing, automobile, production, energy, and design, along with companies offering roles in operations and quality control. Some students also get placed in IT and consulting roles depending on their additional skills and certifications. The university supports students through internships, industrial training, workshops, CAD/CAE software training, and placement preparation (aptitude",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I know does a B.Tech in CSE with specialization in machine learning at Lovely Professional University also include the teaching of AI?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Arshia Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
+                },
+                "answer_text": "Yes, a B.Tech in CSE with specialisation in Machine Learning at Lovely Professional University typically includes the study of Artificial Intelligence (AI) concepts as part of the curriculum. Machine Learning is a core subset of AI, so the programme generally covers foundational AI topics such as intelligent systems, search algorithms, neural networks, deep learning, natural language processing, and data-driven decision making. Along with ML-specific subjects, students usually study programming, data structures, algorithms, data science, and related AI tools and frameworks. In short, if you choose CSE with M",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better for B.Tech- LPU or MSRIT?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                },
+                "answer_text": "Between Lovely Professional University and M. S. Ramaiah Institute of Technology for B.Tech, MSRIT has strong legacy reputation in Bangalore and good core engineering exposure, but LPU offers a much larger campus ecosystem, wider specialisation choices, international collaborations, and large-scale centralized placements across multiple domains; if you value scale, diverse peer network, modern infrastructure, and broad placement reach, LPU provides a comprehensive platform, with final outcomes largely depending on your skills, internships, and project work.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are the placements of LPU for B.Tech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                },
+                "answer_text": "At Lovely Professional University, B.Tech CSE placements are among the strongest on campus, with large-scale centralized drives attracting IT, product-based companies, startups, and service firms; average packages generally fall in the 4–7 LPA range depending on skills and specialization, while higher packages go to students with strong coding profiles, internships, competitive programming, and certifications in areas like AI, Data Science, and Cloud, so the ecosystem provides opportunities, but outcomes are largely performance-driven rather than automatic.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are the placements of B.Tech in automobile engineering in LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 3,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                },
+                "answer_text": "At Lovely Professional University, placements for B.Tech in Automobile Engineering are generally moderate and closely linked to the mechanical engineering domain, as many recruiters hire for broader mechanical roles rather than strictly automobile-specific positions; core automotive companies do visit, but a significant number of students also secure roles in manufacturing, production, quality control, and sometimes IT or management profiles depending on skills, with average packages typically in the 3–5 LPA range, while higher packages depend on internships, CAD/CAE proficiency, EV-related skills, and practical project experience.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one is better CGC Landran or LPU for B.Tech in CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Ananya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/101252254"
+                },
+                "answer_text": "Between Chandigarh Group of Colleges Landran and Lovely Professional University for B.Tech CSE, LPU generally offers a larger tech ecosystem, more diverse specializations (AI, Data Science, Cyber Security), stronger infrastructure, wider national-level exposure, and broader placement networks; CGC Landran is decent regionally, but LPU's scale, coding culture, industry collaborations, and centralized placement structure provide a more competitive environment for students aiming at higher packages and long-term growth in tech, provided they actively build projects and internships.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the BTech course fee in Chanakya University?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Chanakya University",
+                "tag_url": "https://www.shiksha.com/university/chanakya-university-bangalore-181399"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saumya Gairola",
+                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
+                },
+                "answer_text": "The BTech fee in Chanakya University varies for different BTech courses. The total tuition fee for different BTech courses is as follows: Mechanical & Aerospace Engineering: INR 8.40 lakh Civil, Construction & Sustainability Engineering: INR 8.40 lakh Electronics Engineering (VLSI & Embedded Systems): INR 10.60 lakh Electrical Engineering & Computer Science: INR 11.60 lakh Biotechnology & Bioengineering: INR 12.60 lakh Computer Science & Engineering: INR 13.60 lakh Computer Science & Artificial Intelligence: INR 13.60 lakh",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "Which are the other courses I can pursue to get better job opportunities?",
             "tags": [
@@ -792,7 +1000,7 @@
                 "answer_text": "That really depends on where you are right now — your background, your interests, and the kind of life you see for yourself. There isn't one “best” course for everyone. The right choice is the one that improves your skills and actually opens doors in areas you're willing to work hard in. Here are some practical options people usually consider when they want better job opportunities: If you're inclined towards business or management, an MBA (in Finance, Marketing, HR, Operations, or Business Analytics) can significantly improve your career prospects. Even a good certification in digital marketing or business analytics can help you m",
                 "upvotes": 1,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "10 hours ago"
               }
             ]
           },
@@ -818,215 +1026,7 @@
                 "answer_text": "IIT Jammu accepts the JEE Advanced entrance exam for BTech admission. For the students belonging to the General AI quota, the cutoff ranks ranged between 5988 and 18156 for BTech admission across multiple specialisations. For the category-wise cutoff range, refer to the table below: Category JEE Advanced Cutoff Range 2025 Genenral 5988 - 18156 OBC 2594 - 6153 SC 1266 - 3346 ST 763 - 1555 EWS 811- 2665",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can we pursue BTech distance course at B.A. College of Engineering and Technology?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.A. College of Engineering and Technology",
-                "tag_url": "https://www.shiksha.com/college/b-a-college-of-engineering-and-technology-jamshedpur-23703"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Gaurika Chhabra",
-                  "profile_url": "https://www.shiksha.com/userprofile/101123710"
-                },
-                "answer_text": "No, you cannot pursue BTech through distance education at B.A. College of Engineering and Technology. The mode of study for the offered course is full-time. If a course claims to be distance BTech then it's not AICTE recognised.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the main topics that are taught in BTech Electronics at Chanakya University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "B.Tech Electronics",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-electronics-tdp-730598"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "The main areas of study in the BTech Electronics curriculum in Chanakya University are Digital IC Design, Data Structures and Algorithms, Electromagnetic Fields, Computer Networks, VLSI Technology, Communication Engineering, and Electrical Circuits and Networks.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the BTech cutoff at IIT Palakkad? I belong to the OBC category.",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Palakkad - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-palakkad-indian-institute-of-technology-53829"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rashmi Sinha",
-                  "profile_url": "https://www.shiksha.com/userprofile/25897385"
-                },
-                "answer_text": "For IIT Palakkad B.Tech. admission, the JEE Advanced closing ranks ranged between 2229 and 5841 for the students belonging to the OBC category. Candidates can refer to the table below to view the JEE Advanced round-wise cutoff range for 2025. Round JEE Advanced Cutoff Range 2025 1 2229 - 5167 2 2293 - 5445 3 1153 - 2990 4 1168 - 2990 5 1182 - 3024",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get CSE with a JEE Advanced rank of 4000 at IIT Tirupati?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Tirupati - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-tirupati-indian-institute-of-technology-chittoor-53834"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rashmi Sinha",
-                  "profile_url": "https://www.shiksha.com/userprofile/25897385"
-                },
-                "answer_text": "Yes, if you belong to the General AI category, you can get admission to CSE at IIT Tirupati with a JEE Advanced cutoff rank of 4000 . The cutoff rank for admission varies across different categories and rounds. In 2025, for CSE admission, the last round cutoff ranks varied between 4620 and 5034 for the students belonging to the General AI quota.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Tirupati BTech cutoff for different categories?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Tirupati - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-tirupati-indian-institute-of-technology-chittoor-53834"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rashmi Sinha",
-                  "profile_url": "https://www.shiksha.com/userprofile/25897385"
-                },
-                "answer_text": "For IIT Tirupati, the JEE Advanced last round closing ranks ranged between 5034 and 16548 for BTech admission in the General category under the AI quota. Likewise, the cutoff range varies across different categories and rounds. For the last round, the category-wise range is given below: Category Last Round Cutoff 2025 General 5034 - 16548 OBC 2113 - 5522 SC 1018 - 3091 ST 553 - 1376 EWS 733 - 2434 PWD 167 - 228",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the BTech registration fee at Chanakya University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Chanakya University",
-                "tag_url": "https://www.shiksha.com/university/chanakya-university-bangalore-181399"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saumya Gairola",
-                  "profile_url": "https://www.shiksha.com/userprofile/101125358"
-                },
-                "answer_text": "Candidates have to pay a registration fee while applying for admission for BTech programmes at Chanakya University. Chanakya University charges INR 5000 as registration fee for its undergraduate engineering programs.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is Punjab Agricultural University good for BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Panjab University",
-                "tag_url": "https://www.shiksha.com/university/panjab-university-chandigarh-4026"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Shoaib Mehdi",
-                  "profile_url": "https://www.shiksha.com/userprofile/39519231"
-                },
-                "answer_text": "Yes, Punjab Agricultural University has good record of BTech placements. According to the PAU NIRF report,  81 UG 4 year students were placed out of the total 290 graduated students during Punjab Agricultural University placements 2024 with a median package of INR 4.8 LPA.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are the placements of LPU for B.Tech CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Sampreet Kaur",
-                  "profile_url": "https://www.shiksha.com/userprofile/85564600"
-                },
-                "answer_text": "LPU's B.Tech CSE placements stand strong with a the highest package of INR 2.5 crore and over 6,000 offers from 2,225+ top recruiters like Cognizant, Capgemini, and Infosys in the latest drive. The placement cell excels in training students through coding bootcamps, aptitude sessions, and industry projects, ensuring solid outcomes for skilled candidates. Average packages hover around 8-10 LPA for core roles, bolstered by tie-ups with firms like Quantiphi and Xebia for specialised tracks in AI and cybersecurity. This setup equips graduates well for tech careers amid competitive landscapes.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "11 hours ago"
               }
             ]
           }
